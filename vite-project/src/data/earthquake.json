@@ -1,0 +1,5002 @@
+[
+    {
+        "tarih": "2022.06.22",
+        "saat": "10:19:32",
+        "enlem": "40.3475",
+        "boylam": "24.2553",
+        "derinlik": "5.0",
+        "buyukluk": "2.4",
+        "yer": "YUNANISTAN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.22",
+        "saat": "09:38:19",
+        "enlem": "40.1072",
+        "boylam": "27.2220",
+        "derinlik": "9.8",
+        "buyukluk": "2.0",
+        "yer": "YESILKOY-BIGA",
+        "sehir": "(CANAKKALE)"
+    },
+    {
+        "tarih": "2022.06.22",
+        "saat": "09:37:51",
+        "enlem": "40.0727",
+        "boylam": "27.2418",
+        "derinlik": "10.7",
+        "buyukluk": "1.9",
+        "yer": "ILICABASI-BIGA",
+        "sehir": "(CANAKKALE)"
+    },
+    {
+        "tarih": "2022.06.22",
+        "saat": "09:25:19",
+        "enlem": "40.0912",
+        "boylam": "27.2530",
+        "derinlik": "15.6",
+        "buyukluk": "1.2",
+        "yer": "ILICABASI-BIGA",
+        "sehir": "(CANAKKALE)"
+    },
+    {
+        "tarih": "2022.06.22",
+        "saat": "07:24:34",
+        "enlem": "34.6650",
+        "boylam": "23.3395",
+        "derinlik": "17.1",
+        "buyukluk": "3.5",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.22",
+        "saat": "07:06:25",
+        "enlem": "39.3905",
+        "boylam": "32.8510",
+        "derinlik": "10.4",
+        "buyukluk": "1.4",
+        "yer": "KARACAOREN-GOLBASI",
+        "sehir": "(ANKARA)"
+    },
+    {
+        "tarih": "2022.06.22",
+        "saat": "06:19:58",
+        "enlem": "40.1350",
+        "boylam": "31.6690",
+        "derinlik": "3.2",
+        "buyukluk": "2.4",
+        "yer": "ULUKOY-NALLIHAN",
+        "sehir": "(ANKARA)"
+    },
+    {
+        "tarih": "2022.06.22",
+        "saat": "04:35:48",
+        "enlem": "38.9732",
+        "boylam": "25.8567",
+        "derinlik": "10.8",
+        "buyukluk": "1.6",
+        "yer": "MIDILLI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.22",
+        "saat": "03:53:10",
+        "enlem": "38.5588",
+        "boylam": "39.3278",
+        "derinlik": "4.1",
+        "buyukluk": "1.9",
+        "yer": "IKITEPE-(ELAZIG)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.22",
+        "saat": "03:23:08",
+        "enlem": "36.9878",
+        "boylam": "28.7905",
+        "derinlik": "7.5",
+        "buyukluk": "1.5",
+        "yer": "CAYHISAR-KOYCEGIZ",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.22",
+        "saat": "03:14:18",
+        "enlem": "38.8078",
+        "boylam": "43.4872",
+        "derinlik": "11.2",
+        "buyukluk": "1.6",
+        "yer": "DEREBEY-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.22",
+        "saat": "03:13:57",
+        "enlem": "40.6542",
+        "boylam": "32.7813",
+        "derinlik": "5.5",
+        "buyukluk": "1.2",
+        "yer": "YAGCIHUSEYIN-KIZILCAHAMAM",
+        "sehir": "(ANKARA)"
+    },
+    {
+        "tarih": "2022.06.22",
+        "saat": "01:54:27",
+        "enlem": "34.7923",
+        "boylam": "24.8033",
+        "derinlik": "28.2",
+        "buyukluk": "2.6",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "23:44:28",
+        "enlem": "40.0795",
+        "boylam": "41.3032",
+        "derinlik": "24.2",
+        "buyukluk": "1.4",
+        "yer": "AKDAG-YAKUTIYE",
+        "sehir": "(ERZURUM)"
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "23:38:56",
+        "enlem": "39.0820",
+        "boylam": "29.0333",
+        "derinlik": "6.7",
+        "buyukluk": "1.6",
+        "yer": "YESILKOY-SIMAV",
+        "sehir": "(KUTAHYA)"
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "23:34:35",
+        "enlem": "39.0980",
+        "boylam": "29.0645",
+        "derinlik": "5.0",
+        "buyukluk": "1.2",
+        "yer": "KALKAN-SIMAV",
+        "sehir": "(KUTAHYA)"
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "22:49:23",
+        "enlem": "40.7300",
+        "boylam": "27.8703",
+        "derinlik": "15.7",
+        "buyukluk": "1.6",
+        "yer": "MARMARA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "22:49:00",
+        "enlem": "40.3808",
+        "boylam": "27.0773",
+        "derinlik": "4.1",
+        "buyukluk": "1.5",
+        "yer": "BEKIRLI-BIGA",
+        "sehir": "(CANAKKALE)"
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "22:43:47",
+        "enlem": "37.9275",
+        "boylam": "27.3937",
+        "derinlik": "5.5",
+        "buyukluk": "1.5",
+        "yer": "ACARLAR-SELCUK",
+        "sehir": "(IZMIR)"
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "22:17:35",
+        "enlem": "36.4445",
+        "boylam": "27.1293",
+        "derinlik": "3.4",
+        "buyukluk": "2.1",
+        "yer": "ONIKI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "21:13:51",
+        "enlem": "37.9018",
+        "boylam": "25.2530",
+        "derinlik": "9.2",
+        "buyukluk": "2.2",
+        "yer": "EGE",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "17:30:09",
+        "enlem": "38.8095",
+        "boylam": "43.6110",
+        "derinlik": "12.2",
+        "buyukluk": "3.0",
+        "yer": "KUSCU-MURADIYE",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "17:13:16",
+        "enlem": "38.9593",
+        "boylam": "43.3153",
+        "derinlik": "5.0",
+        "buyukluk": "2.5",
+        "yer": "CELEBIBAGI-ERCIS",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "14:07:07",
+        "enlem": "38.8027",
+        "boylam": "43.5332",
+        "derinlik": "5.8",
+        "buyukluk": "3.0",
+        "yer": "DEREBEY-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "13:43:59",
+        "enlem": "39.0752",
+        "boylam": "29.0497",
+        "derinlik": "7.1",
+        "buyukluk": "2.3",
+        "yer": "KALKAN-SIMAV",
+        "sehir": "(KUTAHYA)"
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "12:56:31",
+        "enlem": "37.9992",
+        "boylam": "27.1753",
+        "derinlik": "6.4",
+        "buyukluk": "1.9",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "12:53:12",
+        "enlem": "37.9580",
+        "boylam": "28.7970",
+        "derinlik": "5.0",
+        "buyukluk": "2.7",
+        "yer": "KIZILDERE-BUHARKENT",
+        "sehir": "(AYDIN)"
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "11:48:31",
+        "enlem": "39.7318",
+        "boylam": "30.9942",
+        "derinlik": "7.6",
+        "buyukluk": "2.1",
+        "yer": "AKTEPE-ALPU",
+        "sehir": "(ESKISEHIR)"
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "11:42:05",
+        "enlem": "38.8487",
+        "boylam": "44.5690",
+        "derinlik": "5.0",
+        "buyukluk": "2.7",
+        "yer": "TURKIYE-IRAN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "11:13:41",
+        "enlem": "37.7220",
+        "boylam": "37.4082",
+        "derinlik": "22.4",
+        "buyukluk": "1.8",
+        "yer": "BOZLAR-CAGLAYANCERIT",
+        "sehir": "(KAHRAMANMARAS)"
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "11:11:09",
+        "enlem": "35.4358",
+        "boylam": "25.3648",
+        "derinlik": "7.9",
+        "buyukluk": "2.4",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "10:49:43",
+        "enlem": "36.9338",
+        "boylam": "27.6407",
+        "derinlik": "13.8",
+        "buyukluk": "1.6",
+        "yer": "GOKOVA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "10:10:57",
+        "enlem": "38.9502",
+        "boylam": "43.8543",
+        "derinlik": "5.0",
+        "buyukluk": "3.8",
+        "yer": "ADAKLI-MURADIYE",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "09:30:36",
+        "enlem": "37.1097",
+        "boylam": "28.4292",
+        "derinlik": "2.5",
+        "buyukluk": "1.5",
+        "yer": "ULA",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "08:01:14",
+        "enlem": "35.2712",
+        "boylam": "25.2808",
+        "derinlik": "7.2",
+        "buyukluk": "3.2",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "06:14:09",
+        "enlem": "35.2592",
+        "boylam": "26.1675",
+        "derinlik": "5.0",
+        "buyukluk": "1.9",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "06:06:09",
+        "enlem": "38.9873",
+        "boylam": "43.7578",
+        "derinlik": "8.5",
+        "buyukluk": "2.0",
+        "yer": "MURADIYE",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "04:45:45",
+        "enlem": "35.0745",
+        "boylam": "25.1648",
+        "derinlik": "9.0",
+        "buyukluk": "2.5",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "04:27:14",
+        "enlem": "39.0083",
+        "boylam": "43.6405",
+        "derinlik": "6.2",
+        "buyukluk": "2.0",
+        "yer": "ALKASNAK-MURADIYE",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "04:21:45",
+        "enlem": "38.6497",
+        "boylam": "43.8577",
+        "derinlik": "5.0",
+        "buyukluk": "1.5",
+        "yer": "YUKARIAYAZCA-OZALP",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "03:47:23",
+        "enlem": "40.9293",
+        "boylam": "24.0427",
+        "derinlik": "6.6",
+        "buyukluk": "1.4",
+        "yer": "YUNANISTAN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "03:28:29",
+        "enlem": "36.3625",
+        "boylam": "34.7247",
+        "derinlik": "25.2",
+        "buyukluk": "3.1",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "03:18:50",
+        "enlem": "37.7900",
+        "boylam": "27.0365",
+        "derinlik": "1.6",
+        "buyukluk": "1.8",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "01:34:44",
+        "enlem": "35.1893",
+        "boylam": "23.3027",
+        "derinlik": "29.9",
+        "buyukluk": "3.1",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "01:22:30",
+        "enlem": "36.4098",
+        "boylam": "28.8882",
+        "derinlik": "16.6",
+        "buyukluk": "2.7",
+        "yer": "OLUDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.21",
+        "saat": "00:19:11",
+        "enlem": "37.0547",
+        "boylam": "28.3677",
+        "derinlik": "1.8",
+        "buyukluk": "1.2",
+        "yer": "GOKOVA-ULA",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "23:52:07",
+        "enlem": "36.9613",
+        "boylam": "27.8667",
+        "derinlik": "5.2",
+        "buyukluk": "1.3",
+        "yer": "GOKOVA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "22:59:31",
+        "enlem": "34.7523",
+        "boylam": "24.8572",
+        "derinlik": "10.9",
+        "buyukluk": "2.3",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "22:40:14",
+        "enlem": "37.1030",
+        "boylam": "28.3887",
+        "derinlik": "5.1",
+        "buyukluk": "2.4",
+        "yer": "ULA",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "21:28:43",
+        "enlem": "37.8998",
+        "boylam": "27.6200",
+        "derinlik": "5.9",
+        "buyukluk": "1.1",
+        "yer": "ALANGULLU-GERMENCIK",
+        "sehir": "(AYDIN)"
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "21:22:34",
+        "enlem": "36.4340",
+        "boylam": "27.1088",
+        "derinlik": "5.4",
+        "buyukluk": "2.1",
+        "yer": "ONIKI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "21:11:21",
+        "enlem": "38.9588",
+        "boylam": "43.8435",
+        "derinlik": "15.3",
+        "buyukluk": "2.1",
+        "yer": "ADAKLI-MURADIYE",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "19:47:01",
+        "enlem": "39.5875",
+        "boylam": "26.0688",
+        "derinlik": "8.0",
+        "buyukluk": "1.7",
+        "yer": "GULPINAR-AYVACIK",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "19:39:38",
+        "enlem": "36.1268",
+        "boylam": "31.1880",
+        "derinlik": "9.8",
+        "buyukluk": "2.8",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "19:32:37",
+        "enlem": "37.0230",
+        "boylam": "43.5288",
+        "derinlik": "5.0",
+        "buyukluk": "2.8",
+        "yer": "IRAK",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "19:23:18",
+        "enlem": "36.8675",
+        "boylam": "27.7533",
+        "derinlik": "5.3",
+        "buyukluk": "1.2",
+        "yer": "GOKOVA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "19:04:44",
+        "enlem": "39.5895",
+        "boylam": "26.0152",
+        "derinlik": "4.3",
+        "buyukluk": "1.4",
+        "yer": "GULPINAR",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "18:54:41",
+        "enlem": "40.1230",
+        "boylam": "34.8788",
+        "derinlik": "8.1",
+        "buyukluk": "1.5",
+        "yer": "FAKILAR-ALACA",
+        "sehir": "(CORUM)"
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "18:30:32",
+        "enlem": "37.8890",
+        "boylam": "26.9893",
+        "derinlik": "21.2",
+        "buyukluk": "1.4",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "18:28:27",
+        "enlem": "40.2785",
+        "boylam": "34.8918",
+        "derinlik": "8.8",
+        "buyukluk": "1.7",
+        "yer": "CIRCIR-ALACA",
+        "sehir": "(CORUM)"
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "18:21:58",
+        "enlem": "38.9410",
+        "boylam": "43.7425",
+        "derinlik": "5.4",
+        "buyukluk": "2.2",
+        "yer": "KOSK",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "17:56:37",
+        "enlem": "39.0148",
+        "boylam": "43.7017",
+        "derinlik": "5.0",
+        "buyukluk": "3.8",
+        "yer": "KEMERKOPRU-MURADIYE",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "17:54:36",
+        "enlem": "39.0235",
+        "boylam": "43.2832",
+        "derinlik": "9.6",
+        "buyukluk": "1.3",
+        "yer": "CATAKDIBI-ERCIS",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "13:17:13",
+        "enlem": "36.2682",
+        "boylam": "33.7080",
+        "derinlik": "0.0",
+        "buyukluk": "1.4",
+        "yer": "ISIKLI-SILIFKE",
+        "sehir": "(MERSIN)"
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "12:00:12",
+        "enlem": "36.8928",
+        "boylam": "38.8268",
+        "derinlik": "7.5",
+        "buyukluk": "2.0",
+        "yer": "ASAGICINPOLAT-AKCAKALE",
+        "sehir": "(SANLIURFA)"
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "10:19:50",
+        "enlem": "40.6847",
+        "boylam": "32.2880",
+        "derinlik": "8.1",
+        "buyukluk": "1.9",
+        "yer": "YAKABOY-GEREDE",
+        "sehir": "(BOLU)"
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "10:16:23",
+        "enlem": "39.1450",
+        "boylam": "27.5030",
+        "derinlik": "0.0",
+        "buyukluk": "1.1",
+        "yer": "HACIYUSUF-SOMA",
+        "sehir": "(MANISA)"
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "10:13:22",
+        "enlem": "36.5640",
+        "boylam": "27.8987",
+        "derinlik": "5.0",
+        "buyukluk": "2.4",
+        "yer": "BOZBURUN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "09:44:00",
+        "enlem": "37.0037",
+        "boylam": "34.4278",
+        "derinlik": "15.0",
+        "buyukluk": "1.6",
+        "yer": "CAGLARCA-TOROSLAR",
+        "sehir": "(MERSIN)"
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "09:39:31",
+        "enlem": "39.8093",
+        "boylam": "25.6072",
+        "derinlik": "6.8",
+        "buyukluk": "2.0",
+        "yer": "EGE",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "09:37:52",
+        "enlem": "36.6548",
+        "boylam": "36.5215",
+        "derinlik": "15.0",
+        "buyukluk": "1.8",
+        "yer": "MAZMANLI-HASSA",
+        "sehir": "(HATAY)"
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "09:35:47",
+        "enlem": "35.9995",
+        "boylam": "29.9028",
+        "derinlik": "26.3",
+        "buyukluk": "2.1",
+        "yer": "KAS",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "09:08:33",
+        "enlem": "38.0065",
+        "boylam": "27.1417",
+        "derinlik": "6.6",
+        "buyukluk": "2.3",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "09:01:45",
+        "enlem": "35.8432",
+        "boylam": "25.5008",
+        "derinlik": "7.5",
+        "buyukluk": "2.3",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "08:13:12",
+        "enlem": "39.1985",
+        "boylam": "29.4105",
+        "derinlik": "7.5",
+        "buyukluk": "1.6",
+        "yer": "KARBASAN-HISARCIK",
+        "sehir": "(KUTAHYA)"
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "08:03:09",
+        "enlem": "37.8757",
+        "boylam": "26.9903",
+        "derinlik": "3.4",
+        "buyukluk": "1.7",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "05:42:04",
+        "enlem": "37.8023",
+        "boylam": "26.9407",
+        "derinlik": "9.8",
+        "buyukluk": "3.1",
+        "yer": "SISAM",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "05:16:33",
+        "enlem": "39.5308",
+        "boylam": "28.7452",
+        "derinlik": "14.6",
+        "buyukluk": "1.7",
+        "yer": "AKYAYLA-DURSUNBEY",
+        "sehir": "(BALIKESIR)"
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "04:32:16",
+        "enlem": "35.1815",
+        "boylam": "25.3132",
+        "derinlik": "9.1",
+        "buyukluk": "2.4",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "04:19:02",
+        "enlem": "37.9728",
+        "boylam": "28.9830",
+        "derinlik": "6.1",
+        "buyukluk": "2.0",
+        "yer": "AHMETLI-SARAYKOY",
+        "sehir": "(DENIZLI)"
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "03:50:58",
+        "enlem": "39.0458",
+        "boylam": "26.0960",
+        "derinlik": "8.5",
+        "buyukluk": "2.2",
+        "yer": "MIDILLI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "03:03:19",
+        "enlem": "37.8695",
+        "boylam": "27.2317",
+        "derinlik": "8.2",
+        "buyukluk": "1.8",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "02:24:32",
+        "enlem": "35.2530",
+        "boylam": "27.1672",
+        "derinlik": "85.2",
+        "buyukluk": "4.8",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "00:30:11",
+        "enlem": "35.8808",
+        "boylam": "29.8435",
+        "derinlik": "10.6",
+        "buyukluk": "2.0",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.20",
+        "saat": "00:21:40",
+        "enlem": "37.9658",
+        "boylam": "28.8178",
+        "derinlik": "16.2",
+        "buyukluk": "1.3",
+        "yer": "KIZILDERE-BUHARKENT",
+        "sehir": "(AYDIN)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "23:37:08",
+        "enlem": "39.5313",
+        "boylam": "26.0412",
+        "derinlik": "10.5",
+        "buyukluk": "1.7",
+        "yer": "BABAKALE-AYVACIK",
+        "sehir": "(CANAKKALE)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "23:32:27",
+        "enlem": "38.8195",
+        "boylam": "43.4272",
+        "derinlik": "5.0",
+        "buyukluk": "1.8",
+        "yer": "GEDIKBULAK-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "23:27:37",
+        "enlem": "39.1343",
+        "boylam": "31.1905",
+        "derinlik": "5.4",
+        "buyukluk": "1.5",
+        "yer": "DAGINIK-EMIRDAG",
+        "sehir": "(AFYONKARAHISAR)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "22:19:13",
+        "enlem": "37.8082",
+        "boylam": "29.3628",
+        "derinlik": "5.0",
+        "buyukluk": "2.1",
+        "yer": "DERECIFTLIK-HONAZ",
+        "sehir": "(DENIZLI)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "22:14:19",
+        "enlem": "37.8050",
+        "boylam": "29.3565",
+        "derinlik": "5.0",
+        "buyukluk": "2.4",
+        "yer": "DERECIFTLIK-HONAZ",
+        "sehir": "(DENIZLI)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "21:44:23",
+        "enlem": "39.0440",
+        "boylam": "43.7263",
+        "derinlik": "9.1",
+        "buyukluk": "2.4",
+        "yer": "KEMERKOPRU-MURADIYE",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "21:19:49",
+        "enlem": "37.9795",
+        "boylam": "27.1810",
+        "derinlik": "5.4",
+        "buyukluk": "2.2",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "21:11:12",
+        "enlem": "38.9645",
+        "boylam": "29.8963",
+        "derinlik": "5.4",
+        "buyukluk": "2.4",
+        "yer": "OYSU-ALTINTAS",
+        "sehir": "(KUTAHYA)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "20:59:51",
+        "enlem": "38.9732",
+        "boylam": "25.8745",
+        "derinlik": "10.1",
+        "buyukluk": "1.7",
+        "yer": "MIDILLI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "20:48:00",
+        "enlem": "39.9247",
+        "boylam": "32.4158",
+        "derinlik": "1.5",
+        "buyukluk": "2.2",
+        "yer": "AYAS",
+        "sehir": "(ANKARA)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "20:19:34",
+        "enlem": "38.6288",
+        "boylam": "39.6703",
+        "derinlik": "10.7",
+        "buyukluk": "2.1",
+        "yer": "GEDIKYOLU-(ELAZIG)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "19:37:16",
+        "enlem": "40.7435",
+        "boylam": "28.1677",
+        "derinlik": "15.5",
+        "buyukluk": "2.0",
+        "yer": "MARMARA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "19:20:02",
+        "enlem": "36.6173",
+        "boylam": "25.9105",
+        "derinlik": "8.4",
+        "buyukluk": "2.5",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "19:07:50",
+        "enlem": "37.4417",
+        "boylam": "30.9297",
+        "derinlik": "13.5",
+        "buyukluk": "1.8",
+        "yer": "BEKIRLER-SUTCULER",
+        "sehir": "(ISPARTA)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "17:54:16",
+        "enlem": "38.2232",
+        "boylam": "38.6250",
+        "derinlik": "4.2",
+        "buyukluk": "2.0",
+        "yer": "SOGUTLU-PUTURGE",
+        "sehir": "(MALATYA)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "17:17:53",
+        "enlem": "35.7170",
+        "boylam": "28.5743",
+        "derinlik": "14.3",
+        "buyukluk": "2.6",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "17:07:03",
+        "enlem": "38.8002",
+        "boylam": "26.8342",
+        "derinlik": "5.4",
+        "buyukluk": "1.7",
+        "yer": "CANDARLI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "16:36:10",
+        "enlem": "34.7505",
+        "boylam": "24.1300",
+        "derinlik": "22.9",
+        "buyukluk": "2.8",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "14:03:18",
+        "enlem": "40.1220",
+        "boylam": "31.7503",
+        "derinlik": "2.8",
+        "buyukluk": "2.7",
+        "yer": "CANTIRLI-BEYPAZARI",
+        "sehir": "(ANKARA)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "13:43:20",
+        "enlem": "37.5802",
+        "boylam": "29.9677",
+        "derinlik": "12.6",
+        "buyukluk": "2.0",
+        "yer": "YARISLI-YESILOVA",
+        "sehir": "(BURDUR)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "12:43:16",
+        "enlem": "34.8693",
+        "boylam": "23.6688",
+        "derinlik": "27.2",
+        "buyukluk": "3.3",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "12:18:43",
+        "enlem": "38.8595",
+        "boylam": "43.5760",
+        "derinlik": "5.0",
+        "buyukluk": "3.6",
+        "yer": "AKCIFT-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "12:18:20",
+        "enlem": "37.6862",
+        "boylam": "27.6115",
+        "derinlik": "8.8",
+        "buyukluk": "1.7",
+        "yer": "AVCILAR-SOKE",
+        "sehir": "(AYDIN)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "11:03:46",
+        "enlem": "38.5727",
+        "boylam": "31.2113",
+        "derinlik": "7.6",
+        "buyukluk": "3.0",
+        "yer": "DOGANCIK-SULTANDAGI",
+        "sehir": "(AFYONKARAHISAR)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "08:34:12",
+        "enlem": "38.1615",
+        "boylam": "27.1295",
+        "derinlik": "9.3",
+        "buyukluk": "1.5",
+        "yer": "SASAL-MENDERES",
+        "sehir": "(IZMIR)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "07:06:58",
+        "enlem": "38.2957",
+        "boylam": "28.3332",
+        "derinlik": "5.6",
+        "buyukluk": "1.6",
+        "yer": "SARISU-KIRAZ",
+        "sehir": "(IZMIR)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "05:07:21",
+        "enlem": "38.8225",
+        "boylam": "43.5602",
+        "derinlik": "5.0",
+        "buyukluk": "2.6",
+        "yer": "AKCIFT-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "03:10:59",
+        "enlem": "38.8643",
+        "boylam": "43.5988",
+        "derinlik": "5.0",
+        "buyukluk": "3.2",
+        "yer": "SAGLAMTAS-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "02:30:54",
+        "enlem": "38.9927",
+        "boylam": "30.1912",
+        "derinlik": "3.6",
+        "buyukluk": "1.7",
+        "yer": "BESKARIS-ALTINTAS",
+        "sehir": "(KUTAHYA)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "02:02:25",
+        "enlem": "37.9598",
+        "boylam": "26.9765",
+        "derinlik": "5.8",
+        "buyukluk": "2.4",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "01:51:05",
+        "enlem": "39.8350",
+        "boylam": "41.9025",
+        "derinlik": "10.2",
+        "buyukluk": "2.1",
+        "yer": "ALACA-KOPRUKOY",
+        "sehir": "(ERZURUM)"
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "01:01:07",
+        "enlem": "35.1285",
+        "boylam": "25.3003",
+        "derinlik": "7.8",
+        "buyukluk": "3.3",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "00:35:56",
+        "enlem": "38.7417",
+        "boylam": "44.6718",
+        "derinlik": "5.0",
+        "buyukluk": "2.1",
+        "yer": "IRAN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.19",
+        "saat": "00:22:02",
+        "enlem": "40.6092",
+        "boylam": "29.0515",
+        "derinlik": "4.8",
+        "buyukluk": "1.5",
+        "yer": "TESVIKIYE-CINARCIK",
+        "sehir": "(YALOVA)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "23:38:11",
+        "enlem": "38.5897",
+        "boylam": "30.7290",
+        "derinlik": "5.8",
+        "buyukluk": "1.3",
+        "yer": "KIZILDAG-(AFYONKARAHISAR)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "23:17:43",
+        "enlem": "37.0490",
+        "boylam": "28.3392",
+        "derinlik": "5.0",
+        "buyukluk": "1.3",
+        "yer": "AKYAKA-ULA",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "22:15:16",
+        "enlem": "36.7687",
+        "boylam": "28.2845",
+        "derinlik": "72.6",
+        "buyukluk": "3.9",
+        "yer": "TURUNC-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "21:15:33",
+        "enlem": "37.9820",
+        "boylam": "27.1792",
+        "derinlik": "5.4",
+        "buyukluk": "2.5",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "20:55:14",
+        "enlem": "36.7388",
+        "boylam": "31.9537",
+        "derinlik": "5.3",
+        "buyukluk": "2.1",
+        "yer": "BAYIRKOY-ALANYA",
+        "sehir": "(ANTALYA)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "19:48:07",
+        "enlem": "39.9597",
+        "boylam": "25.6608",
+        "derinlik": "9.6",
+        "buyukluk": "2.3",
+        "yer": "EGE",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "18:55:11",
+        "enlem": "38.9410",
+        "boylam": "33.6262",
+        "derinlik": "4.1",
+        "buyukluk": "1.5",
+        "yer": "SEYMENLI-SEREFLIKOCHISAR",
+        "sehir": "(ANKARA)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "18:09:21",
+        "enlem": "39.5967",
+        "boylam": "29.3853",
+        "derinlik": "0.0",
+        "buyukluk": "1.6",
+        "yer": "KOPRUCEK-TAVSANLI",
+        "sehir": "(KUTAHYA)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "18:03:45",
+        "enlem": "39.3400",
+        "boylam": "41.9987",
+        "derinlik": "1.8",
+        "buyukluk": "2.3",
+        "yer": "BURNAZ-KARACOBAN",
+        "sehir": "(ERZURUM)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "18:00:32",
+        "enlem": "39.3278",
+        "boylam": "42.0133",
+        "derinlik": "5.0",
+        "buyukluk": "2.9",
+        "yer": "BUDAKLI-KARACOBAN",
+        "sehir": "(ERZURUM)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "17:36:07",
+        "enlem": "37.8518",
+        "boylam": "27.0473",
+        "derinlik": "5.1",
+        "buyukluk": "1.6",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "17:17:22",
+        "enlem": "40.4470",
+        "boylam": "29.2125",
+        "derinlik": "0.0",
+        "buyukluk": "1.5",
+        "yer": "CIHATLI-GEMLIK",
+        "sehir": "(BURSA)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "17:14:32",
+        "enlem": "38.3445",
+        "boylam": "39.1117",
+        "derinlik": "7.4",
+        "buyukluk": "1.7",
+        "yer": "AKSEKI-SIVRICE",
+        "sehir": "(ELAZIG)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "16:18:57",
+        "enlem": "35.4293",
+        "boylam": "26.0365",
+        "derinlik": "6.3",
+        "buyukluk": "2.3",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "16:10:36",
+        "enlem": "38.8843",
+        "boylam": "43.5265",
+        "derinlik": "1.4",
+        "buyukluk": "2.6",
+        "yer": "ERMISLER-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "15:11:07",
+        "enlem": "38.9005",
+        "boylam": "43.8230",
+        "derinlik": "22.9",
+        "buyukluk": "2.1",
+        "yer": "GULTEPE-MURADIYE",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "14:50:13",
+        "enlem": "35.0815",
+        "boylam": "23.7495",
+        "derinlik": "53.8",
+        "buyukluk": "3.4",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "14:31:15",
+        "enlem": "38.6123",
+        "boylam": "30.7175",
+        "derinlik": "5.2",
+        "buyukluk": "2.0",
+        "yer": "ISIKLAR-(AFYONKARAHISAR)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "14:11:57",
+        "enlem": "39.7325",
+        "boylam": "35.1705",
+        "derinlik": "13.9",
+        "buyukluk": "1.6",
+        "yer": "AKOLUK-SORGUN",
+        "sehir": "(YOZGAT)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "13:52:37",
+        "enlem": "38.5267",
+        "boylam": "39.1962",
+        "derinlik": "12.9",
+        "buyukluk": "2.1",
+        "yer": "KAVAKTEPE-(ELAZIG)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "12:03:41",
+        "enlem": "37.2432",
+        "boylam": "35.0555",
+        "derinlik": "10.6",
+        "buyukluk": "1.2",
+        "yer": "KARAISALI",
+        "sehir": "(ADANA)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "11:13:38",
+        "enlem": "37.9748",
+        "boylam": "27.2360",
+        "derinlik": "5.5",
+        "buyukluk": "2.1",
+        "yer": "ZEYTINKOY-SELCUK",
+        "sehir": "(IZMIR)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "11:13:15",
+        "enlem": "40.2988",
+        "boylam": "29.5067",
+        "derinlik": "1.4",
+        "buyukluk": "1.3",
+        "yer": "SELIMIYE-YENISEHIR",
+        "sehir": "(BURSA)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "10:03:03",
+        "enlem": "37.8255",
+        "boylam": "26.9832",
+        "derinlik": "5.0",
+        "buyukluk": "2.3",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "08:13:42",
+        "enlem": "37.7812",
+        "boylam": "26.4480",
+        "derinlik": "9.5",
+        "buyukluk": "1.9",
+        "yer": "ONIKI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "07:20:04",
+        "enlem": "37.8468",
+        "boylam": "26.9407",
+        "derinlik": "6.9",
+        "buyukluk": "1.6",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "07:04:13",
+        "enlem": "35.2388",
+        "boylam": "23.4372",
+        "derinlik": "27.1",
+        "buyukluk": "3.2",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "06:35:59",
+        "enlem": "37.9587",
+        "boylam": "28.7997",
+        "derinlik": "3.2",
+        "buyukluk": "1.8",
+        "yer": "KIZILDERE-BUHARKENT",
+        "sehir": "(AYDIN)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "06:25:13",
+        "enlem": "37.7392",
+        "boylam": "37.4672",
+        "derinlik": "3.8",
+        "buyukluk": "2.4",
+        "yer": "YESILOVA-GOLBASI",
+        "sehir": "(ADIYAMAN)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "06:06:57",
+        "enlem": "40.1735",
+        "boylam": "23.9208",
+        "derinlik": "8.8",
+        "buyukluk": "2.4",
+        "yer": "YUNANISTAN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "06:05:07",
+        "enlem": "36.4457",
+        "boylam": "27.0927",
+        "derinlik": "5.2",
+        "buyukluk": "1.9",
+        "yer": "ONIKI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "06:01:06",
+        "enlem": "36.8402",
+        "boylam": "27.7387",
+        "derinlik": "8.4",
+        "buyukluk": "1.9",
+        "yer": "GOKOVA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "05:33:49",
+        "enlem": "36.7810",
+        "boylam": "27.7828",
+        "derinlik": "10.4",
+        "buyukluk": "2.6",
+        "yer": "EMECIK-DATCA",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "05:29:28",
+        "enlem": "36.7768",
+        "boylam": "27.8007",
+        "derinlik": "5.5",
+        "buyukluk": "2.2",
+        "yer": "EMECIK-DATCA",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "05:22:16",
+        "enlem": "37.1068",
+        "boylam": "28.4220",
+        "derinlik": "11.0",
+        "buyukluk": "1.9",
+        "yer": "ULA",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "05:13:54",
+        "enlem": "36.7902",
+        "boylam": "27.7833",
+        "derinlik": "10.1",
+        "buyukluk": "2.7",
+        "yer": "EMECIK-DATCA",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "04:01:44",
+        "enlem": "38.8545",
+        "boylam": "43.5440",
+        "derinlik": "5.9",
+        "buyukluk": "1.9",
+        "yer": "BAGDASAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "02:48:08",
+        "enlem": "37.7605",
+        "boylam": "32.0807",
+        "derinlik": "9.9",
+        "buyukluk": "0.9",
+        "yer": "YATAGAN-MERAM",
+        "sehir": "(KONYA)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "02:28:31",
+        "enlem": "40.7463",
+        "boylam": "25.6870",
+        "derinlik": "5.0",
+        "buyukluk": "1.7",
+        "yer": "EGE",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "01:14:06",
+        "enlem": "40.6327",
+        "boylam": "29.1117",
+        "derinlik": "13.2",
+        "buyukluk": "1.5",
+        "yer": "CINARCIK",
+        "sehir": "(YALOVA)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "00:45:57",
+        "enlem": "38.7142",
+        "boylam": "31.3813",
+        "derinlik": "17.4",
+        "buyukluk": "1.4",
+        "yer": "CUKURCAK-SULTANDAGI",
+        "sehir": "(AFYONKARAHISAR)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "00:43:52",
+        "enlem": "40.2232",
+        "boylam": "31.9100",
+        "derinlik": "4.4",
+        "buyukluk": "2.0",
+        "yer": "GEYIKPINARI-BEYPAZARI",
+        "sehir": "(ANKARA)"
+    },
+    {
+        "tarih": "2022.06.18",
+        "saat": "00:43:42",
+        "enlem": "38.7440",
+        "boylam": "43.9828",
+        "derinlik": "25.2",
+        "buyukluk": "2.2",
+        "yer": "SEHITTEPE-OZALP",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "23:52:47",
+        "enlem": "38.8172",
+        "boylam": "43.5067",
+        "derinlik": "5.0",
+        "buyukluk": "3.7",
+        "yer": "DEREBEY-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "23:30:50",
+        "enlem": "37.9798",
+        "boylam": "27.2042",
+        "derinlik": "4.2",
+        "buyukluk": "2.4",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "21:53:27",
+        "enlem": "37.9930",
+        "boylam": "27.1803",
+        "derinlik": "2.6",
+        "buyukluk": "1.6",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "20:46:31",
+        "enlem": "38.8540",
+        "boylam": "43.4190",
+        "derinlik": "7.0",
+        "buyukluk": "2.6",
+        "yer": "KUMLUCA-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "19:53:29",
+        "enlem": "39.1182",
+        "boylam": "29.1330",
+        "derinlik": "13.8",
+        "buyukluk": "1.5",
+        "yer": "SENKOY-SIMAV",
+        "sehir": "(KUTAHYA)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "19:34:59",
+        "enlem": "37.1163",
+        "boylam": "28.3402",
+        "derinlik": "21.6",
+        "buyukluk": "1.6",
+        "yer": "DOGAN-(MUGLA)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "18:27:23",
+        "enlem": "39.8230",
+        "boylam": "27.9885",
+        "derinlik": "4.8",
+        "buyukluk": "2.2",
+        "yer": "ODALIDAM-SUSURLUK",
+        "sehir": "(BALIKESIR)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "17:44:48",
+        "enlem": "38.7962",
+        "boylam": "27.7940",
+        "derinlik": "6.4",
+        "buyukluk": "2.8",
+        "yer": "SAZOBA-AKHISAR",
+        "sehir": "(MANISA)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "15:27:40",
+        "enlem": "35.7408",
+        "boylam": "28.5825",
+        "derinlik": "4.7",
+        "buyukluk": "2.5",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "15:24:58",
+        "enlem": "36.6068",
+        "boylam": "34.2283",
+        "derinlik": "6.9",
+        "buyukluk": "1.6",
+        "yer": "UCTEPE-ERDEMLI",
+        "sehir": "(MERSIN)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "15:20:50",
+        "enlem": "39.1060",
+        "boylam": "36.0145",
+        "derinlik": "8.1",
+        "buyukluk": "2.0",
+        "yer": "TATILI-SARIOGLAN",
+        "sehir": "(KAYSERI)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "14:11:35",
+        "enlem": "40.0633",
+        "boylam": "35.2825",
+        "derinlik": "14.3",
+        "buyukluk": "2.0",
+        "yer": "FUADIYE-CEKEREK",
+        "sehir": "(YOZGAT)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "13:18:23",
+        "enlem": "38.7638",
+        "boylam": "43.5210",
+        "derinlik": "9.3",
+        "buyukluk": "2.0",
+        "yer": "DEGIRMENOZU-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "12:36:14",
+        "enlem": "39.0075",
+        "boylam": "37.5283",
+        "derinlik": "27.5",
+        "buyukluk": "1.6",
+        "yer": "KARLIK-KULUNCAK",
+        "sehir": "(MALATYA)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "11:52:10",
+        "enlem": "37.2178",
+        "boylam": "37.2450",
+        "derinlik": "0.0",
+        "buyukluk": "1.4",
+        "yer": "YIGINLI-SEHITKAMIL",
+        "sehir": "(GAZIANTEP)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "11:09:36",
+        "enlem": "39.1417",
+        "boylam": "27.5180",
+        "derinlik": "0.0",
+        "buyukluk": "1.4",
+        "yer": "HACIYUSUF-SOMA",
+        "sehir": "(MANISA)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "10:20:24",
+        "enlem": "35.1252",
+        "boylam": "24.2663",
+        "derinlik": "5.0",
+        "buyukluk": "3.4",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "10:17:40",
+        "enlem": "38.7948",
+        "boylam": "43.6290",
+        "derinlik": "12.5",
+        "buyukluk": "2.3",
+        "yer": "KUSCU-MURADIYE",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "10:14:10",
+        "enlem": "39.8422",
+        "boylam": "27.9747",
+        "derinlik": "8.9",
+        "buyukluk": "2.1",
+        "yer": "YAYLABAYIR-(BALIKESIR)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "09:55:43",
+        "enlem": "38.7432",
+        "boylam": "43.3835",
+        "derinlik": "5.0",
+        "buyukluk": "2.1",
+        "yer": "TABANLI-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "08:53:43",
+        "enlem": "37.9865",
+        "boylam": "27.1703",
+        "derinlik": "4.6",
+        "buyukluk": "2.5",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "08:13:11",
+        "enlem": "40.7263",
+        "boylam": "31.5228",
+        "derinlik": "12.5",
+        "buyukluk": "1.8",
+        "yer": "KARAKOY-(BOLU)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "08:01:52",
+        "enlem": "38.8330",
+        "boylam": "43.4572",
+        "derinlik": "12.8",
+        "buyukluk": "1.9",
+        "yer": "GEDIKBULAK-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "06:16:36",
+        "enlem": "37.8397",
+        "boylam": "27.2068",
+        "derinlik": "7.6",
+        "buyukluk": "1.5",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "06:02:05",
+        "enlem": "38.6215",
+        "boylam": "30.7302",
+        "derinlik": "5.3",
+        "buyukluk": "1.2",
+        "yer": "ISIKLAR-(AFYONKARAHISAR)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "05:57:07",
+        "enlem": "39.0002",
+        "boylam": "35.9002",
+        "derinlik": "3.8",
+        "buyukluk": "1.8",
+        "yer": "SULTANHANI-BUNYAN",
+        "sehir": "(KAYSERI)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "05:27:16",
+        "enlem": "37.2217",
+        "boylam": "28.6865",
+        "derinlik": "7.9",
+        "buyukluk": "1.9",
+        "yer": "CAKMAK-(MUGLA)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "04:58:50",
+        "enlem": "37.8770",
+        "boylam": "26.8548",
+        "derinlik": "5.2",
+        "buyukluk": "1.6",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "04:29:13",
+        "enlem": "40.1858",
+        "boylam": "27.5503",
+        "derinlik": "12.5",
+        "buyukluk": "1.3",
+        "yer": "GELGEC-GONEN",
+        "sehir": "(BALIKESIR)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "04:22:00",
+        "enlem": "38.9778",
+        "boylam": "27.0017",
+        "derinlik": "7.2",
+        "buyukluk": "1.7",
+        "yer": "DEMIRTAS-DIKILI",
+        "sehir": "(IZMIR)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "04:09:45",
+        "enlem": "41.0212",
+        "boylam": "43.8962",
+        "derinlik": "5.0",
+        "buyukluk": "3.7",
+        "yer": "ERMENISTAN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "03:41:20",
+        "enlem": "36.9365",
+        "boylam": "27.6647",
+        "derinlik": "6.9",
+        "buyukluk": "3.3",
+        "yer": "GOKOVA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "02:52:33",
+        "enlem": "38.9748",
+        "boylam": "30.2072",
+        "derinlik": "5.0",
+        "buyukluk": "2.8",
+        "yer": "AYDINLAR-ALTINTAS",
+        "sehir": "(KUTAHYA)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "02:23:40",
+        "enlem": "38.9953",
+        "boylam": "30.2043",
+        "derinlik": "1.3",
+        "buyukluk": "2.5",
+        "yer": "BESKARIS-ALTINTAS",
+        "sehir": "(KUTAHYA)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "02:00:27",
+        "enlem": "37.0168",
+        "boylam": "28.5027",
+        "derinlik": "5.0",
+        "buyukluk": "1.4",
+        "yer": "SARAYYANI-ULA",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "01:28:19",
+        "enlem": "39.8500",
+        "boylam": "27.9313",
+        "derinlik": "9.9",
+        "buyukluk": "1.6",
+        "yer": "YAGCILAR-(BALIKESIR)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "00:57:21",
+        "enlem": "39.5895",
+        "boylam": "27.0250",
+        "derinlik": "12.3",
+        "buyukluk": "1.6",
+        "yer": "EDREMIT",
+        "sehir": "(BALIKESIR)"
+    },
+    {
+        "tarih": "2022.06.17",
+        "saat": "00:21:05",
+        "enlem": "39.8260",
+        "boylam": "27.9442",
+        "derinlik": "7.0",
+        "buyukluk": "1.9",
+        "yer": "YAYLABAYIR-(BALIKESIR)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "23:35:32",
+        "enlem": "39.0727",
+        "boylam": "36.0132",
+        "derinlik": "3.3",
+        "buyukluk": "1.9",
+        "yer": "TATILI-SARIOGLAN",
+        "sehir": "(KAYSERI)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "23:30:05",
+        "enlem": "39.0082",
+        "boylam": "30.2022",
+        "derinlik": "4.8",
+        "buyukluk": "3.3",
+        "yer": "BESKARIS-ALTINTAS",
+        "sehir": "(KUTAHYA)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "23:27:01",
+        "enlem": "39.0882",
+        "boylam": "35.9875",
+        "derinlik": "1.8",
+        "buyukluk": "2.4",
+        "yer": "SARIOGLAN",
+        "sehir": "(KAYSERI)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "23:00:38",
+        "enlem": "35.8437",
+        "boylam": "29.8237",
+        "derinlik": "10.1",
+        "buyukluk": "2.1",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "22:29:15",
+        "enlem": "38.8117",
+        "boylam": "43.4213",
+        "derinlik": "5.0",
+        "buyukluk": "1.7",
+        "yer": "GEDIKBULAK-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "22:20:42",
+        "enlem": "35.8290",
+        "boylam": "29.7737",
+        "derinlik": "10.6",
+        "buyukluk": "2.5",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "21:14:41",
+        "enlem": "39.1048",
+        "boylam": "36.0050",
+        "derinlik": "3.3",
+        "buyukluk": "1.8",
+        "yer": "TATILI-SARIOGLAN",
+        "sehir": "(KAYSERI)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "21:10:20",
+        "enlem": "38.8813",
+        "boylam": "43.5498",
+        "derinlik": "5.7",
+        "buyukluk": "2.0",
+        "yer": "COLPAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "20:55:08",
+        "enlem": "39.8143",
+        "boylam": "27.9153",
+        "derinlik": "4.4",
+        "buyukluk": "1.4",
+        "yer": "HALKAPINAR-(BALIKESIR)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "20:28:19",
+        "enlem": "39.1020",
+        "boylam": "36.0267",
+        "derinlik": "4.1",
+        "buyukluk": "2.3",
+        "yer": "TATILI-SARIOGLAN",
+        "sehir": "(KAYSERI)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "19:30:50",
+        "enlem": "38.9395",
+        "boylam": "27.8678",
+        "derinlik": "16.0",
+        "buyukluk": "1.5",
+        "yer": "AKHISAR",
+        "sehir": "(MANISA)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "18:56:48",
+        "enlem": "36.1478",
+        "boylam": "33.5497",
+        "derinlik": "0.0",
+        "buyukluk": "1.2",
+        "yer": "BUYUKECELI-GULNAR",
+        "sehir": "(MERSIN)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "18:53:28",
+        "enlem": "38.7693",
+        "boylam": "43.5475",
+        "derinlik": "5.0",
+        "buyukluk": "3.4",
+        "yer": "DEGIRMENOZU-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "18:45:44",
+        "enlem": "39.9722",
+        "boylam": "26.4200",
+        "derinlik": "2.4",
+        "buyukluk": "1.5",
+        "yer": "OVACIK-(CANAKKALE)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "16:25:17",
+        "enlem": "36.9462",
+        "boylam": "27.6658",
+        "derinlik": "8.5",
+        "buyukluk": "2.8",
+        "yer": "GOKOVA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "16:24:39",
+        "enlem": "36.9423",
+        "boylam": "27.6365",
+        "derinlik": "12.0",
+        "buyukluk": "3.1",
+        "yer": "GOKOVA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "14:53:31",
+        "enlem": "38.0673",
+        "boylam": "27.2423",
+        "derinlik": "5.3",
+        "buyukluk": "1.7",
+        "yer": "CAKALTEPE-MENDERES",
+        "sehir": "(IZMIR)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "14:14:15",
+        "enlem": "37.0603",
+        "boylam": "28.2240",
+        "derinlik": "6.0",
+        "buyukluk": "1.8",
+        "yer": "KIRAN-(MUGLA)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "13:42:32",
+        "enlem": "34.8597",
+        "boylam": "23.3417",
+        "derinlik": "28.2",
+        "buyukluk": "2.7",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "13:17:41",
+        "enlem": "37.2632",
+        "boylam": "31.8642",
+        "derinlik": "0.0",
+        "buyukluk": "2.0",
+        "yer": "MADENLI-SEYDISEHIR",
+        "sehir": "(KONYA)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "13:03:22",
+        "enlem": "39.6788",
+        "boylam": "30.7863",
+        "derinlik": "0.0",
+        "buyukluk": "1.4",
+        "yer": "TURKMENTOKAT-ODUNPAZARI",
+        "sehir": "(ESKISEHIR)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "12:55:20",
+        "enlem": "40.8527",
+        "boylam": "27.9957",
+        "derinlik": "7.7",
+        "buyukluk": "2.0",
+        "yer": "MARMARA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "12:51:04",
+        "enlem": "37.0578",
+        "boylam": "28.2835",
+        "derinlik": "5.2",
+        "buyukluk": "1.5",
+        "yer": "KUYUCAK-(MUGLA)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "12:49:05",
+        "enlem": "38.0853",
+        "boylam": "31.8613",
+        "derinlik": "5.0",
+        "buyukluk": "1.1",
+        "yer": "YUKARICIGIL-ILGIN",
+        "sehir": "(KONYA)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "12:40:57",
+        "enlem": "39.2135",
+        "boylam": "41.7662",
+        "derinlik": "11.6",
+        "buyukluk": "2.0",
+        "yer": "CILLIGOL-HINIS",
+        "sehir": "(ERZURUM)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "11:42:22",
+        "enlem": "40.4775",
+        "boylam": "29.2907",
+        "derinlik": "0.0",
+        "buyukluk": "1.9",
+        "yer": "CELTIKCI-ORHANGAZI",
+        "sehir": "(BURSA)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "11:12:09",
+        "enlem": "35.0192",
+        "boylam": "23.2742",
+        "derinlik": "26.4",
+        "buyukluk": "2.2",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "10:34:08",
+        "enlem": "39.0838",
+        "boylam": "36.0100",
+        "derinlik": "7.8",
+        "buyukluk": "1.9",
+        "yer": "TATILI-SARIOGLAN",
+        "sehir": "(KAYSERI)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "09:12:54",
+        "enlem": "36.8920",
+        "boylam": "27.7092",
+        "derinlik": "13.1",
+        "buyukluk": "1.6",
+        "yer": "GOKOVA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "08:35:01",
+        "enlem": "36.9315",
+        "boylam": "35.6907",
+        "derinlik": "15.4",
+        "buyukluk": "1.9",
+        "yer": "KIZILDERE-CEYHAN",
+        "sehir": "(ADANA)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "08:13:33",
+        "enlem": "37.1075",
+        "boylam": "28.5457",
+        "derinlik": "9.0",
+        "buyukluk": "1.7",
+        "yer": "KIYRA-ULA",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "07:40:21",
+        "enlem": "39.8118",
+        "boylam": "27.9608",
+        "derinlik": "5.3",
+        "buyukluk": "1.6",
+        "yer": "CAYPINAR-(BALIKESIR)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "06:43:49",
+        "enlem": "40.1935",
+        "boylam": "31.6940",
+        "derinlik": "11.8",
+        "buyukluk": "2.1",
+        "yer": "SEKLI-BEYPAZARI",
+        "sehir": "(ANKARA)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "05:21:53",
+        "enlem": "40.7805",
+        "boylam": "27.6098",
+        "derinlik": "6.2",
+        "buyukluk": "1.9",
+        "yer": "MARMARA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "05:09:28",
+        "enlem": "39.0758",
+        "boylam": "25.5185",
+        "derinlik": "2.6",
+        "buyukluk": "2.3",
+        "yer": "EGE",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "04:36:55",
+        "enlem": "38.4445",
+        "boylam": "39.2868",
+        "derinlik": "1.5",
+        "buyukluk": "1.9",
+        "yer": "SIVRICE",
+        "sehir": "(ELAZIG)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "04:16:58",
+        "enlem": "34.7817",
+        "boylam": "25.0675",
+        "derinlik": "6.3",
+        "buyukluk": "2.3",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "03:02:23",
+        "enlem": "37.0287",
+        "boylam": "35.5712",
+        "derinlik": "4.1",
+        "buyukluk": "1.9",
+        "yer": "CIHADIYE-SARICAM",
+        "sehir": "(ADANA)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "02:55:26",
+        "enlem": "34.6772",
+        "boylam": "24.7950",
+        "derinlik": "10.5",
+        "buyukluk": "2.8",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "02:50:55",
+        "enlem": "38.3042",
+        "boylam": "38.9633",
+        "derinlik": "13.4",
+        "buyukluk": "1.5",
+        "yer": "KOLDERE-DOGANYOL",
+        "sehir": "(MALATYA)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "02:10:17",
+        "enlem": "39.8653",
+        "boylam": "25.9730",
+        "derinlik": "7.5",
+        "buyukluk": "1.5",
+        "yer": "EGE",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "02:09:05",
+        "enlem": "37.9243",
+        "boylam": "26.8503",
+        "derinlik": "4.5",
+        "buyukluk": "1.5",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "01:42:56",
+        "enlem": "40.5530",
+        "boylam": "30.6078",
+        "derinlik": "15.2",
+        "buyukluk": "1.5",
+        "yer": "HANYATAK-AKYAZI",
+        "sehir": "(SAKARYA)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "01:08:36",
+        "enlem": "35.3958",
+        "boylam": "27.4973",
+        "derinlik": "12.5",
+        "buyukluk": "2.3",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "01:01:49",
+        "enlem": "39.0125",
+        "boylam": "43.6217",
+        "derinlik": "4.8",
+        "buyukluk": "2.1",
+        "yer": "KECIKIRAN-MURADIYE",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "00:31:50",
+        "enlem": "35.9342",
+        "boylam": "29.3323",
+        "derinlik": "5.0",
+        "buyukluk": "1.4",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "00:22:39",
+        "enlem": "37.8490",
+        "boylam": "26.7913",
+        "derinlik": "5.3",
+        "buyukluk": "3.3",
+        "yer": "EGE",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "00:07:55",
+        "enlem": "34.8450",
+        "boylam": "23.1730",
+        "derinlik": "13.6",
+        "buyukluk": "2.5",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.16",
+        "saat": "00:00:30",
+        "enlem": "39.8380",
+        "boylam": "25.9640",
+        "derinlik": "7.0",
+        "buyukluk": "1.7",
+        "yer": "EGE",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "23:52:35",
+        "enlem": "38.9245",
+        "boylam": "43.5355",
+        "derinlik": "5.0",
+        "buyukluk": "1.9",
+        "yer": "COLPAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "23:12:07",
+        "enlem": "39.6165",
+        "boylam": "26.3987",
+        "derinlik": "9.4",
+        "buyukluk": "2.2",
+        "yer": "AYVACIK",
+        "sehir": "(CANAKKALE)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "22:55:07",
+        "enlem": "39.8153",
+        "boylam": "27.9383",
+        "derinlik": "4.6",
+        "buyukluk": "3.3",
+        "yer": "CAYPINAR-(BALIKESIR)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "22:33:38",
+        "enlem": "39.6422",
+        "boylam": "26.4473",
+        "derinlik": "11.3",
+        "buyukluk": "1.7",
+        "yer": "SULEYMANKOY-AYVACIK",
+        "sehir": "(CANAKKALE)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "22:24:53",
+        "enlem": "34.8823",
+        "boylam": "24.8620",
+        "derinlik": "12.2",
+        "buyukluk": "1.7",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "19:47:30",
+        "enlem": "38.8703",
+        "boylam": "43.5330",
+        "derinlik": "5.0",
+        "buyukluk": "2.9",
+        "yer": "ERMISLER-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "19:37:43",
+        "enlem": "38.4087",
+        "boylam": "36.2422",
+        "derinlik": "16.2",
+        "buyukluk": "1.4",
+        "yer": "MIRZAAGA-SARIZ",
+        "sehir": "(KAYSERI)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "19:11:03",
+        "enlem": "35.2553",
+        "boylam": "25.3203",
+        "derinlik": "5.4",
+        "buyukluk": "2.6",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "18:32:39",
+        "enlem": "35.8183",
+        "boylam": "32.8775",
+        "derinlik": "12.1",
+        "buyukluk": "1.5",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "18:07:22",
+        "enlem": "37.0218",
+        "boylam": "27.8047",
+        "derinlik": "5.5",
+        "buyukluk": "1.3",
+        "yer": "COKERTME-MILAS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "17:13:17",
+        "enlem": "39.8643",
+        "boylam": "26.0975",
+        "derinlik": "22.8",
+        "buyukluk": "1.4",
+        "yer": "BOZCAADA",
+        "sehir": "(CANAKKALE)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "15:24:05",
+        "enlem": "39.0457",
+        "boylam": "43.5297",
+        "derinlik": "8.1",
+        "buyukluk": "2.1",
+        "yer": "TOPRAKLI-ERCIS",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "14:45:16",
+        "enlem": "38.9125",
+        "boylam": "43.4700",
+        "derinlik": "8.0",
+        "buyukluk": "2.7",
+        "yer": "VAN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "14:36:56",
+        "enlem": "36.1253",
+        "boylam": "33.5518",
+        "derinlik": "0.0",
+        "buyukluk": "1.4",
+        "yer": "BUYUKECELI-GULNAR",
+        "sehir": "(MERSIN)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "14:31:43",
+        "enlem": "36.6990",
+        "boylam": "29.0258",
+        "derinlik": "19.8",
+        "buyukluk": "0.9",
+        "yer": "YANIKLAR-FETHIYE",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "14:12:03",
+        "enlem": "38.1210",
+        "boylam": "26.7542",
+        "derinlik": "36.4",
+        "buyukluk": "1.6",
+        "yer": "SEFERIHISAR",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "14:10:18",
+        "enlem": "37.2282",
+        "boylam": "32.8210",
+        "derinlik": "10.1",
+        "buyukluk": "1.9",
+        "yer": "AKARKOY-KAZIMKARABEKIR",
+        "sehir": "(KARAMAN)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "13:57:53",
+        "enlem": "38.7917",
+        "boylam": "43.5660",
+        "derinlik": "5.0",
+        "buyukluk": "3.0",
+        "yer": "YUKARIGOLALAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "13:49:13",
+        "enlem": "36.1757",
+        "boylam": "33.4918",
+        "derinlik": "0.0",
+        "buyukluk": "1.5",
+        "yer": "YANISLI-GULNAR",
+        "sehir": "(MERSIN)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "13:36:01",
+        "enlem": "39.6083",
+        "boylam": "33.7757",
+        "derinlik": "11.1",
+        "buyukluk": "1.5",
+        "yer": "YONCALI-KESKIN",
+        "sehir": "(KIRIKKALE)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "13:25:42",
+        "enlem": "40.1662",
+        "boylam": "28.9102",
+        "derinlik": "9.0",
+        "buyukluk": "1.7",
+        "yer": "YAYLACIK-NILUFER",
+        "sehir": "(BURSA)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "13:11:43",
+        "enlem": "34.3312",
+        "boylam": "23.9392",
+        "derinlik": "6.8",
+        "buyukluk": "2.9",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "13:04:02",
+        "enlem": "40.7950",
+        "boylam": "31.4917",
+        "derinlik": "5.1",
+        "buyukluk": "1.1",
+        "yer": "KIZILAGIL-(BOLU)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "13:03:43",
+        "enlem": "39.2368",
+        "boylam": "27.6880",
+        "derinlik": "0.0",
+        "buyukluk": "1.4",
+        "yer": "EVCILER-SOMA",
+        "sehir": "(MANISA)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "13:00:37",
+        "enlem": "36.4498",
+        "boylam": "27.0805",
+        "derinlik": "6.5",
+        "buyukluk": "2.0",
+        "yer": "ONIKI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "12:53:37",
+        "enlem": "36.3972",
+        "boylam": "27.1993",
+        "derinlik": "16.1",
+        "buyukluk": "1.7",
+        "yer": "ONIKI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "12:50:49",
+        "enlem": "37.9158",
+        "boylam": "26.8703",
+        "derinlik": "9.0",
+        "buyukluk": "1.8",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "12:33:27",
+        "enlem": "38.8770",
+        "boylam": "33.0798",
+        "derinlik": "19.0",
+        "buyukluk": "1.4",
+        "yer": "ZINCIRLIKUYU-KULU",
+        "sehir": "(KONYA)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "11:29:59",
+        "enlem": "40.7177",
+        "boylam": "32.3267",
+        "derinlik": "7.6",
+        "buyukluk": "1.8",
+        "yer": "AGIZORENGUNEY-GEREDE",
+        "sehir": "(BOLU)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "11:21:50",
+        "enlem": "37.6743",
+        "boylam": "36.4322",
+        "derinlik": "14.0",
+        "buyukluk": "1.9",
+        "yer": "KALEBOYNU-ANDIRIN",
+        "sehir": "(KAHRAMANMARAS)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "10:51:57",
+        "enlem": "38.6748",
+        "boylam": "43.5802",
+        "derinlik": "22.2",
+        "buyukluk": "2.5",
+        "yer": "KOZLUCA-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "10:33:43",
+        "enlem": "34.4905",
+        "boylam": "24.0957",
+        "derinlik": "15.3",
+        "buyukluk": "2.8",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "09:43:55",
+        "enlem": "39.8288",
+        "boylam": "27.9610",
+        "derinlik": "14.2",
+        "buyukluk": "1.9",
+        "yer": "YAYLABAYIR-(BALIKESIR)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "08:20:50",
+        "enlem": "34.9000",
+        "boylam": "24.9122",
+        "derinlik": "5.0",
+        "buyukluk": "2.7",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "08:01:45",
+        "enlem": "38.7982",
+        "boylam": "43.4608",
+        "derinlik": "1.7",
+        "buyukluk": "2.3",
+        "yer": "DEREBEY-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "07:08:48",
+        "enlem": "36.4597",
+        "boylam": "29.5383",
+        "derinlik": "16.6",
+        "buyukluk": "1.8",
+        "yer": "YUVACIK-KAS",
+        "sehir": "(ANTALYA)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "05:13:19",
+        "enlem": "34.9950",
+        "boylam": "23.5957",
+        "derinlik": "51.8",
+        "buyukluk": "2.3",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "05:02:57",
+        "enlem": "38.9937",
+        "boylam": "27.8463",
+        "derinlik": "12.5",
+        "buyukluk": "2.2",
+        "yer": "GOKCEAHMET-AKHISAR",
+        "sehir": "(MANISA)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "04:15:56",
+        "enlem": "40.7602",
+        "boylam": "35.8915",
+        "derinlik": "10.6",
+        "buyukluk": "1.6",
+        "yer": "ORMANOZU-(AMASYA)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "03:34:58",
+        "enlem": "37.1873",
+        "boylam": "28.9670",
+        "derinlik": "1.8",
+        "buyukluk": "2.2",
+        "yer": "UZUNOLUK-BEYAGAC",
+        "sehir": "(DENIZLI)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "03:17:26",
+        "enlem": "38.7872",
+        "boylam": "43.6557",
+        "derinlik": "14.0",
+        "buyukluk": "2.0",
+        "yer": "KUSCU-MURADIYE",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "03:15:15",
+        "enlem": "38.8738",
+        "boylam": "43.5627",
+        "derinlik": "11.3",
+        "buyukluk": "1.7",
+        "yer": "CAKIRBEY-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "02:58:27",
+        "enlem": "38.8078",
+        "boylam": "43.3780",
+        "derinlik": "10.5",
+        "buyukluk": "1.5",
+        "yer": "YAYLIYAKA-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "02:16:13",
+        "enlem": "40.8618",
+        "boylam": "30.7505",
+        "derinlik": "7.9",
+        "buyukluk": "2.1",
+        "yer": "KAHRAMAN-HENDEK",
+        "sehir": "(SAKARYA)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "02:12:12",
+        "enlem": "37.8895",
+        "boylam": "26.7865",
+        "derinlik": "5.0",
+        "buyukluk": "1.5",
+        "yer": "EGE",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "01:44:15",
+        "enlem": "38.8902",
+        "boylam": "43.5402",
+        "derinlik": "1.2",
+        "buyukluk": "1.9",
+        "yer": "COLPAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "01:07:56",
+        "enlem": "40.8817",
+        "boylam": "31.8822",
+        "derinlik": "7.2",
+        "buyukluk": "1.8",
+        "yer": "KAYABASI-MENGEN",
+        "sehir": "(BOLU)"
+    },
+    {
+        "tarih": "2022.06.15",
+        "saat": "00:39:49",
+        "enlem": "38.9072",
+        "boylam": "43.5125",
+        "derinlik": "8.0",
+        "buyukluk": "2.2",
+        "yer": "COLPAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "23:35:24",
+        "enlem": "38.8392",
+        "boylam": "43.5273",
+        "derinlik": "5.0",
+        "buyukluk": "2.2",
+        "yer": "BAGDASAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "23:25:58",
+        "enlem": "35.8850",
+        "boylam": "35.8948",
+        "derinlik": "17.3",
+        "buyukluk": "1.5",
+        "yer": "DENIZGOREN-YAYLADAGI",
+        "sehir": "(HATAY)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "23:19:43",
+        "enlem": "39.8265",
+        "boylam": "27.9628",
+        "derinlik": "7.8",
+        "buyukluk": "1.8",
+        "yer": "YAYLABAYIR-(BALIKESIR)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "22:53:39",
+        "enlem": "36.9645",
+        "boylam": "30.9457",
+        "derinlik": "30.5",
+        "buyukluk": "1.4",
+        "yer": "ABDURRAHMANLAR-SERIK",
+        "sehir": "(ANTALYA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "22:07:46",
+        "enlem": "38.1630",
+        "boylam": "30.8698",
+        "derinlik": "12.5",
+        "buyukluk": "1.5",
+        "yer": "AKDAG-GELENDOST",
+        "sehir": "(ISPARTA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "19:34:31",
+        "enlem": "38.8977",
+        "boylam": "43.5370",
+        "derinlik": "9.8",
+        "buyukluk": "2.2",
+        "yer": "COLPAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "16:21:19",
+        "enlem": "36.1795",
+        "boylam": "27.8018",
+        "derinlik": "81.6",
+        "buyukluk": "2.5",
+        "yer": "RODOS",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "12:16:32",
+        "enlem": "38.3128",
+        "boylam": "38.1312",
+        "derinlik": "8.1",
+        "buyukluk": "1.5",
+        "yer": "KUYULU-YESILYURT",
+        "sehir": "(MALATYA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "12:01:58",
+        "enlem": "35.1728",
+        "boylam": "25.2848",
+        "derinlik": "3.3",
+        "buyukluk": "3.0",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "12:01:08",
+        "enlem": "37.1690",
+        "boylam": "37.2280",
+        "derinlik": "0.0",
+        "buyukluk": "1.5",
+        "yer": "YESILCE-SEHITKAMIL",
+        "sehir": "(GAZIANTEP)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "11:57:48",
+        "enlem": "35.0197",
+        "boylam": "25.2562",
+        "derinlik": "10.1",
+        "buyukluk": "1.8",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "11:57:48",
+        "enlem": "35.4007",
+        "boylam": "25.3037",
+        "derinlik": "5.0",
+        "buyukluk": "1.7",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "11:45:27",
+        "enlem": "37.7055",
+        "boylam": "32.3492",
+        "derinlik": "0.0",
+        "buyukluk": "0.9",
+        "yer": "KARADIGINDERESI-MERAM",
+        "sehir": "(KONYA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "10:46:13",
+        "enlem": "35.1725",
+        "boylam": "25.3272",
+        "derinlik": "5.5",
+        "buyukluk": "2.8",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "09:28:15",
+        "enlem": "40.7033",
+        "boylam": "27.4698",
+        "derinlik": "11.8",
+        "buyukluk": "1.8",
+        "yer": "GUZELKOY",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "08:23:50",
+        "enlem": "40.7005",
+        "boylam": "30.3077",
+        "derinlik": "0.0",
+        "buyukluk": "1.8",
+        "yer": "UZUNKUM-SAPANCA",
+        "sehir": "(SAKARYA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "08:18:26",
+        "enlem": "38.8747",
+        "boylam": "43.6227",
+        "derinlik": "15.4",
+        "buyukluk": "2.5",
+        "yer": "KELLE-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "07:58:19",
+        "enlem": "38.8352",
+        "boylam": "43.5802",
+        "derinlik": "5.0",
+        "buyukluk": "3.4",
+        "yer": "AKCIFT-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "07:41:48",
+        "enlem": "38.7257",
+        "boylam": "43.5747",
+        "derinlik": "26.1",
+        "buyukluk": "2.4",
+        "yer": "ASAGIGOLALAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "07:39:05",
+        "enlem": "40.2585",
+        "boylam": "33.4510",
+        "derinlik": "12.5",
+        "buyukluk": "2.0",
+        "yer": "CANDIR-KALECIK",
+        "sehir": "(ANKARA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "07:27:09",
+        "enlem": "38.9172",
+        "boylam": "43.4897",
+        "derinlik": "4.0",
+        "buyukluk": "2.4",
+        "yer": "VAN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "07:23:20",
+        "enlem": "38.8592",
+        "boylam": "43.4817",
+        "derinlik": "1.6",
+        "buyukluk": "2.6",
+        "yer": "KARAAGAC-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "06:53:08",
+        "enlem": "35.2615",
+        "boylam": "26.2797",
+        "derinlik": "2.5",
+        "buyukluk": "3.3",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "06:07:00",
+        "enlem": "36.7007",
+        "boylam": "28.2378",
+        "derinlik": "4.8",
+        "buyukluk": "1.3",
+        "yer": "OSMANIYE-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "05:27:28",
+        "enlem": "38.9102",
+        "boylam": "43.4978",
+        "derinlik": "26.3",
+        "buyukluk": "1.9",
+        "yer": "VAN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "05:25:55",
+        "enlem": "38.8563",
+        "boylam": "43.5212",
+        "derinlik": "11.8",
+        "buyukluk": "2.3",
+        "yer": "ERMISLER-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "04:27:31",
+        "enlem": "36.7608",
+        "boylam": "28.0587",
+        "derinlik": "3.9",
+        "buyukluk": "3.2",
+        "yer": "TURGUTKOY-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "04:19:03",
+        "enlem": "36.7462",
+        "boylam": "28.0345",
+        "derinlik": "12.8",
+        "buyukluk": "1.4",
+        "yer": "SELIMIYE-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "04:17:44",
+        "enlem": "36.7597",
+        "boylam": "28.0507",
+        "derinlik": "2.8",
+        "buyukluk": "2.4",
+        "yer": "TURGUTKOY-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "04:10:52",
+        "enlem": "36.7412",
+        "boylam": "28.0352",
+        "derinlik": "11.1",
+        "buyukluk": "1.8",
+        "yer": "SELIMIYE-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "03:41:52",
+        "enlem": "36.7643",
+        "boylam": "28.0562",
+        "derinlik": "5.7",
+        "buyukluk": "3.5",
+        "yer": "TURGUTKOY-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "03:26:14",
+        "enlem": "36.7787",
+        "boylam": "28.0620",
+        "derinlik": "6.3",
+        "buyukluk": "2.1",
+        "yer": "TURGUTKOY-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "03:23:44",
+        "enlem": "36.7907",
+        "boylam": "28.0553",
+        "derinlik": "8.3",
+        "buyukluk": "2.3",
+        "yer": "GOKOVA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "03:14:35",
+        "enlem": "36.7248",
+        "boylam": "28.0382",
+        "derinlik": "5.0",
+        "buyukluk": "2.7",
+        "yer": "BOZBURUN-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "03:13:04",
+        "enlem": "36.7770",
+        "boylam": "28.0617",
+        "derinlik": "6.1",
+        "buyukluk": "3.6",
+        "yer": "TURGUTKOY-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "03:12:04",
+        "enlem": "36.7380",
+        "boylam": "28.0640",
+        "derinlik": "11.6",
+        "buyukluk": "2.6",
+        "yer": "SELIMIYE-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "03:11:09",
+        "enlem": "36.7727",
+        "boylam": "28.0590",
+        "derinlik": "7.5",
+        "buyukluk": "2.9",
+        "yer": "TURGUTKOY-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "03:07:38",
+        "enlem": "36.7498",
+        "boylam": "28.0660",
+        "derinlik": "7.3",
+        "buyukluk": "3.6",
+        "yer": "TURGUTKOY-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "02:56:54",
+        "enlem": "36.7763",
+        "boylam": "28.0548",
+        "derinlik": "3.6",
+        "buyukluk": "1.8",
+        "yer": "TURGUTKOY-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "02:53:30",
+        "enlem": "36.7345",
+        "boylam": "28.0645",
+        "derinlik": "13.5",
+        "buyukluk": "1.6",
+        "yer": "SELIMIYE-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "02:51:29",
+        "enlem": "36.7235",
+        "boylam": "28.0350",
+        "derinlik": "1.9",
+        "buyukluk": "1.7",
+        "yer": "BOZBURUN-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "02:49:55",
+        "enlem": "36.7560",
+        "boylam": "28.0173",
+        "derinlik": "5.3",
+        "buyukluk": "1.6",
+        "yer": "GOKOVA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "02:48:32",
+        "enlem": "36.7580",
+        "boylam": "28.0670",
+        "derinlik": "6.6",
+        "buyukluk": "2.9",
+        "yer": "TURGUTKOY-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "02:47:39",
+        "enlem": "36.7457",
+        "boylam": "28.0640",
+        "derinlik": "6.6",
+        "buyukluk": "2.7",
+        "yer": "SELIMIYE-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "02:43:28",
+        "enlem": "36.4655",
+        "boylam": "27.0748",
+        "derinlik": "3.0",
+        "buyukluk": "2.1",
+        "yer": "ONIKI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "01:18:12",
+        "enlem": "38.8615",
+        "boylam": "43.4837",
+        "derinlik": "6.9",
+        "buyukluk": "2.2",
+        "yer": "KARAAGAC-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.14",
+        "saat": "01:08:35",
+        "enlem": "38.8393",
+        "boylam": "43.5143",
+        "derinlik": "5.0",
+        "buyukluk": "3.4",
+        "yer": "BAGDASAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "22:19:32",
+        "enlem": "37.1675",
+        "boylam": "28.0772",
+        "derinlik": "15.2",
+        "buyukluk": "2.5",
+        "yer": "CIRPI-(MUGLA)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "20:06:56",
+        "enlem": "36.5367",
+        "boylam": "28.9765",
+        "derinlik": "13.6",
+        "buyukluk": "1.8",
+        "yer": "OLUDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "18:11:22",
+        "enlem": "38.8908",
+        "boylam": "43.7027",
+        "derinlik": "5.0",
+        "buyukluk": "2.5",
+        "yer": "TOPUZARPA-MURADIYE",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "16:58:06",
+        "enlem": "38.9762",
+        "boylam": "43.7827",
+        "derinlik": "16.6",
+        "buyukluk": "2.0",
+        "yer": "YAKINCAK-MURADIYE",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "16:49:29",
+        "enlem": "36.7360",
+        "boylam": "28.0305",
+        "derinlik": "4.1",
+        "buyukluk": "1.7",
+        "yer": "BOZBURUN-MARMARIS",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "15:58:39",
+        "enlem": "38.8408",
+        "boylam": "43.6208",
+        "derinlik": "17.4",
+        "buyukluk": "2.5",
+        "yer": "ESENKOC-MURADIYE",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "14:35:58",
+        "enlem": "36.1423",
+        "boylam": "33.5188",
+        "derinlik": "0.0",
+        "buyukluk": "1.5",
+        "yer": "YANISLI-GULNAR",
+        "sehir": "(MERSIN)"
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "14:05:03",
+        "enlem": "41.2015",
+        "boylam": "24.8785",
+        "derinlik": "5.4",
+        "buyukluk": "2.3",
+        "yer": "YUNANISTAN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "13:50:29",
+        "enlem": "39.1528",
+        "boylam": "29.3685",
+        "derinlik": "28.0",
+        "buyukluk": "1.1",
+        "yer": "YESILOVA-GEDIZ",
+        "sehir": "(KUTAHYA)"
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "13:43:32",
+        "enlem": "37.0277",
+        "boylam": "28.3955",
+        "derinlik": "9.3",
+        "buyukluk": "1.4",
+        "yer": "SIRINKOY-ULA",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "13:29:14",
+        "enlem": "38.8650",
+        "boylam": "43.4943",
+        "derinlik": "5.0",
+        "buyukluk": "3.3",
+        "yer": "ERMISLER-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "12:39:00",
+        "enlem": "38.4578",
+        "boylam": "28.3005",
+        "derinlik": "27.8",
+        "buyukluk": "1.4",
+        "yer": "KOSEALI-SALIHLI",
+        "sehir": "(MANISA)"
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "12:35:48",
+        "enlem": "39.6623",
+        "boylam": "30.1117",
+        "derinlik": "0.0",
+        "buyukluk": "1.5",
+        "yer": "KUMBETYENIKOY-INONU",
+        "sehir": "(ESKISEHIR)"
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "12:21:30",
+        "enlem": "39.0715",
+        "boylam": "37.3645",
+        "derinlik": "0.0",
+        "buyukluk": "1.7",
+        "yer": "SEKERPINAR-KANGAL",
+        "sehir": "(SIVAS)"
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "11:22:40",
+        "enlem": "38.7990",
+        "boylam": "43.4435",
+        "derinlik": "5.0",
+        "buyukluk": "2.6",
+        "yer": "GEDIKBULAK-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "11:00:56",
+        "enlem": "37.0805",
+        "boylam": "43.5092",
+        "derinlik": "6.8",
+        "buyukluk": "1.8",
+        "yer": "TURKIYE-IRAK",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "10:51:22",
+        "enlem": "38.8982",
+        "boylam": "43.4160",
+        "derinlik": "8.1",
+        "buyukluk": "2.5",
+        "yer": "VAN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "10:32:06",
+        "enlem": "40.2842",
+        "boylam": "42.5178",
+        "derinlik": "5.0",
+        "buyukluk": "2.4",
+        "yer": "HANDERE-SARIKAMIS",
+        "sehir": "(KARS)"
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "10:30:53",
+        "enlem": "40.8447",
+        "boylam": "27.8390",
+        "derinlik": "7.0",
+        "buyukluk": "2.1",
+        "yer": "MARMARA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "10:13:20",
+        "enlem": "38.7835",
+        "boylam": "43.5242",
+        "derinlik": "5.0",
+        "buyukluk": "2.3",
+        "yer": "MEYDANCIK-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "09:45:50",
+        "enlem": "39.2312",
+        "boylam": "29.2940",
+        "derinlik": "0.0",
+        "buyukluk": "1.4",
+        "yer": "HAMAMKOY-HISARCIK",
+        "sehir": "(KUTAHYA)"
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "06:29:29",
+        "enlem": "36.8440",
+        "boylam": "26.6843",
+        "derinlik": "154.0",
+        "buyukluk": "2.2",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "05:43:49",
+        "enlem": "38.5973",
+        "boylam": "30.8652",
+        "derinlik": "8.7",
+        "buyukluk": "1.7",
+        "yer": "GOZSUZLU-(AFYONKARAHISAR)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "05:40:20",
+        "enlem": "38.5850",
+        "boylam": "30.8758",
+        "derinlik": "14.1",
+        "buyukluk": "1.3",
+        "yer": "MALTEPE-CAY",
+        "sehir": "(AFYONKARAHISAR)"
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "05:30:37",
+        "enlem": "38.3650",
+        "boylam": "28.1005",
+        "derinlik": "10.2",
+        "buyukluk": "1.9",
+        "yer": "BOZDAG-ODEMIS",
+        "sehir": "(IZMIR)"
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "04:59:19",
+        "enlem": "41.6412",
+        "boylam": "32.6575",
+        "derinlik": "11.3",
+        "buyukluk": "1.8",
+        "yer": "ABDURRAHMAN-ULUS",
+        "sehir": "(BARTIN)"
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "04:53:49",
+        "enlem": "39.4955",
+        "boylam": "25.7268",
+        "derinlik": "7.9",
+        "buyukluk": "2.0",
+        "yer": "EGE",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "03:47:02",
+        "enlem": "38.8190",
+        "boylam": "43.5168",
+        "derinlik": "16.5",
+        "buyukluk": "1.6",
+        "yer": "BAGDASAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "03:30:39",
+        "enlem": "38.8508",
+        "boylam": "43.5552",
+        "derinlik": "1.0",
+        "buyukluk": "2.1",
+        "yer": "BAGDASAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "02:09:18",
+        "enlem": "38.8277",
+        "boylam": "43.4220",
+        "derinlik": "7.4",
+        "buyukluk": "2.2",
+        "yer": "GEDIKBULAK-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "01:34:56",
+        "enlem": "38.8248",
+        "boylam": "43.4568",
+        "derinlik": "16.1",
+        "buyukluk": "1.8",
+        "yer": "GEDIKBULAK-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "01:29:54",
+        "enlem": "38.8562",
+        "boylam": "43.5415",
+        "derinlik": "5.0",
+        "buyukluk": "2.2",
+        "yer": "BAGDASAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "00:56:15",
+        "enlem": "38.7668",
+        "boylam": "43.5155",
+        "derinlik": "5.0",
+        "buyukluk": "3.4",
+        "yer": "MEYDANCIK-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "00:29:39",
+        "enlem": "36.5672",
+        "boylam": "33.8255",
+        "derinlik": "12.9",
+        "buyukluk": "1.3",
+        "yer": "KEPEZ-SILIFKE",
+        "sehir": "(MERSIN)"
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "00:18:43",
+        "enlem": "38.7787",
+        "boylam": "43.5987",
+        "derinlik": "5.0",
+        "buyukluk": "2.4",
+        "yer": "YUKARIGOLALAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.13",
+        "saat": "00:05:50",
+        "enlem": "38.8480",
+        "boylam": "43.6283",
+        "derinlik": "5.0",
+        "buyukluk": "2.6",
+        "yer": "KELLE-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "23:58:34",
+        "enlem": "38.8698",
+        "boylam": "43.4937",
+        "derinlik": "7.9",
+        "buyukluk": "2.1",
+        "yer": "ERMISLER-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "23:53:10",
+        "enlem": "35.2870",
+        "boylam": "26.8035",
+        "derinlik": "1.7",
+        "buyukluk": "3.4",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "23:51:28",
+        "enlem": "38.9878",
+        "boylam": "27.8433",
+        "derinlik": "4.8",
+        "buyukluk": "1.6",
+        "yer": "KARABORKLU-AKHISAR",
+        "sehir": "(MANISA)"
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "23:43:17",
+        "enlem": "38.8055",
+        "boylam": "43.5670",
+        "derinlik": "9.8",
+        "buyukluk": "3.4",
+        "yer": "AKCIFT-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "23:24:05",
+        "enlem": "39.0162",
+        "boylam": "43.7073",
+        "derinlik": "5.5",
+        "buyukluk": "1.8",
+        "yer": "KEMERKOPRU-MURADIYE",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "23:07:27",
+        "enlem": "38.7493",
+        "boylam": "43.5923",
+        "derinlik": "13.6",
+        "buyukluk": "2.0",
+        "yer": "ASAGIGOLALAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "22:41:35",
+        "enlem": "40.3973",
+        "boylam": "33.8693",
+        "derinlik": "9.0",
+        "buyukluk": "1.2",
+        "yer": "YUKARIALAGOZ-KIZILIRMAK",
+        "sehir": "(CANKIRI)"
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "22:35:06",
+        "enlem": "38.8707",
+        "boylam": "43.4952",
+        "derinlik": "5.0",
+        "buyukluk": "2.9",
+        "yer": "ERMISLER-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "22:02:15",
+        "enlem": "38.7947",
+        "boylam": "43.5477",
+        "derinlik": "13.4",
+        "buyukluk": "1.5",
+        "yer": "DEGIRMENOZU-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "21:57:38",
+        "enlem": "38.8263",
+        "boylam": "43.3688",
+        "derinlik": "14.9",
+        "buyukluk": "1.5",
+        "yer": "YAYLIYAKA-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "21:54:39",
+        "enlem": "38.9210",
+        "boylam": "43.3762",
+        "derinlik": "9.4",
+        "buyukluk": "2.2",
+        "yer": "VAN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "21:48:31",
+        "enlem": "38.8517",
+        "boylam": "43.5180",
+        "derinlik": "5.0",
+        "buyukluk": "3.0",
+        "yer": "BAGDASAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "21:46:07",
+        "enlem": "38.8423",
+        "boylam": "43.4872",
+        "derinlik": "1.7",
+        "buyukluk": "2.5",
+        "yer": "KARAAGAC-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "21:44:48",
+        "enlem": "38.8363",
+        "boylam": "43.3457",
+        "derinlik": "7.4",
+        "buyukluk": "2.3",
+        "yer": "HALKALI-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "21:43:05",
+        "enlem": "38.8285",
+        "boylam": "43.3005",
+        "derinlik": "6.5",
+        "buyukluk": "2.2",
+        "yer": "HALKALI-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "21:40:53",
+        "enlem": "38.8392",
+        "boylam": "43.5197",
+        "derinlik": "5.0",
+        "buyukluk": "2.9",
+        "yer": "BAGDASAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "21:35:17",
+        "enlem": "38.8018",
+        "boylam": "43.6332",
+        "derinlik": "5.0",
+        "buyukluk": "5.2",
+        "yer": "KUSCU-MURADIYE",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "19:35:04",
+        "enlem": "34.6950",
+        "boylam": "33.9377",
+        "derinlik": "29.3",
+        "buyukluk": "3.1",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "18:57:22",
+        "enlem": "39.3075",
+        "boylam": "29.4885",
+        "derinlik": "14.3",
+        "buyukluk": "1.3",
+        "yer": "CERTE-EMET",
+        "sehir": "(KUTAHYA)"
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "18:03:36",
+        "enlem": "40.1447",
+        "boylam": "31.7297",
+        "derinlik": "4.1",
+        "buyukluk": "2.8",
+        "yer": "CANTIRLI-BEYPAZARI",
+        "sehir": "(ANKARA)"
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "16:15:16",
+        "enlem": "35.3558",
+        "boylam": "26.3232",
+        "derinlik": "11.0",
+        "buyukluk": "2.7",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "15:39:17",
+        "enlem": "35.1617",
+        "boylam": "33.8003",
+        "derinlik": "12.8",
+        "buyukluk": "1.4",
+        "yer": "KIBRIS-TUZLA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "15:30:18",
+        "enlem": "35.0218",
+        "boylam": "26.7537",
+        "derinlik": "5.0",
+        "buyukluk": "2.9",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "15:05:05",
+        "enlem": "35.8173",
+        "boylam": "30.9777",
+        "derinlik": "16.1",
+        "buyukluk": "3.0",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "13:56:33",
+        "enlem": "41.0053",
+        "boylam": "42.9142",
+        "derinlik": "3.0",
+        "buyukluk": "3.2",
+        "yer": "OTBICEN-(ARDAHAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "13:43:12",
+        "enlem": "39.9028",
+        "boylam": "24.0468",
+        "derinlik": "18.0",
+        "buyukluk": "1.7",
+        "yer": "YUNANISTAN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "13:38:08",
+        "enlem": "37.0257",
+        "boylam": "28.4343",
+        "derinlik": "8.7",
+        "buyukluk": "1.8",
+        "yer": "CITLIK-ULA",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "13:35:43",
+        "enlem": "37.4353",
+        "boylam": "36.3532",
+        "derinlik": "5.0",
+        "buyukluk": "1.7",
+        "yer": "BESBUCAK-ANDIRIN",
+        "sehir": "(KAHRAMANMARAS)"
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "12:59:20",
+        "enlem": "41.7230",
+        "boylam": "32.6652",
+        "derinlik": "9.4",
+        "buyukluk": "1.4",
+        "yer": "SOGUTLU-(BARTIN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "12:47:34",
+        "enlem": "37.8037",
+        "boylam": "27.1315",
+        "derinlik": "2.9",
+        "buyukluk": "1.6",
+        "yer": "KUSADASI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "12:01:36",
+        "enlem": "38.6922",
+        "boylam": "26.1132",
+        "derinlik": "2.9",
+        "buyukluk": "1.7",
+        "yer": "SALMAN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "11:52:39",
+        "enlem": "35.2058",
+        "boylam": "25.2992",
+        "derinlik": "5.4",
+        "buyukluk": "2.5",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "10:59:18",
+        "enlem": "40.8582",
+        "boylam": "27.5212",
+        "derinlik": "5.5",
+        "buyukluk": "1.8",
+        "yer": "KUMBAG-(TEKIRDAG)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "10:56:18",
+        "enlem": "38.7903",
+        "boylam": "43.4870",
+        "derinlik": "5.0",
+        "buyukluk": "2.4",
+        "yer": "DEREBEY-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "10:46:21",
+        "enlem": "38.0888",
+        "boylam": "28.0347",
+        "derinlik": "5.0",
+        "buyukluk": "1.3",
+        "yer": "BADEMLI-ODEMIS",
+        "sehir": "(IZMIR)"
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "10:31:40",
+        "enlem": "39.8463",
+        "boylam": "28.8545",
+        "derinlik": "0.0",
+        "buyukluk": "1.9",
+        "yer": "CAKIRYENICE-BUYUKORHAN",
+        "sehir": "(BURSA)"
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "10:26:13",
+        "enlem": "39.8172",
+        "boylam": "27.9338",
+        "derinlik": "7.9",
+        "buyukluk": "2.1",
+        "yer": "HALKAPINAR-(BALIKESIR)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "10:09:54",
+        "enlem": "35.1202",
+        "boylam": "25.1635",
+        "derinlik": "7.0",
+        "buyukluk": "1.8",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "10:09:12",
+        "enlem": "38.8193",
+        "boylam": "43.6385",
+        "derinlik": "17.5",
+        "buyukluk": "3.2",
+        "yer": "ERISEN-MURADIYE",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "09:43:54",
+        "enlem": "38.1365",
+        "boylam": "25.8398",
+        "derinlik": "9.9",
+        "buyukluk": "2.5",
+        "yer": "SAKIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "08:36:01",
+        "enlem": "38.6007",
+        "boylam": "30.8832",
+        "derinlik": "5.3",
+        "buyukluk": "1.2",
+        "yer": "MALTEPE-CAY",
+        "sehir": "(AFYONKARAHISAR)"
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "08:18:16",
+        "enlem": "38.0797",
+        "boylam": "32.7225",
+        "derinlik": "0.0",
+        "buyukluk": "1.3",
+        "yer": "KARAOMERLER-SELCUKLU",
+        "sehir": "(KONYA)"
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "07:38:50",
+        "enlem": "37.6335",
+        "boylam": "27.0220",
+        "derinlik": "8.3",
+        "buyukluk": "1.8",
+        "yer": "DOGANBEY",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "07:29:02",
+        "enlem": "36.1070",
+        "boylam": "31.3647",
+        "derinlik": "17.0",
+        "buyukluk": "2.3",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "07:11:09",
+        "enlem": "35.0630",
+        "boylam": "23.3992",
+        "derinlik": "26.4",
+        "buyukluk": "2.1",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "07:10:36",
+        "enlem": "38.6763",
+        "boylam": "43.0802",
+        "derinlik": "4.0",
+        "buyukluk": "2.4",
+        "yer": "VAN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "06:34:51",
+        "enlem": "36.2930",
+        "boylam": "27.5772",
+        "derinlik": "31.0",
+        "buyukluk": "2.0",
+        "yer": "DATCA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "04:03:48",
+        "enlem": "36.9823",
+        "boylam": "27.6572",
+        "derinlik": "7.4",
+        "buyukluk": "1.9",
+        "yer": "GOKOVA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "03:30:22",
+        "enlem": "35.1092",
+        "boylam": "24.8987",
+        "derinlik": "22.1",
+        "buyukluk": "2.1",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "02:39:23",
+        "enlem": "36.5770",
+        "boylam": "34.2093",
+        "derinlik": "37.0",
+        "buyukluk": "2.0",
+        "yer": "BATISANDAL-ERDEMLI",
+        "sehir": "(MERSIN)"
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "02:36:36",
+        "enlem": "34.6865",
+        "boylam": "25.2047",
+        "derinlik": "23.7",
+        "buyukluk": "2.1",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "02:35:48",
+        "enlem": "40.4323",
+        "boylam": "26.2950",
+        "derinlik": "11.4",
+        "buyukluk": "1.4",
+        "yer": "SAROS",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "01:58:39",
+        "enlem": "38.5162",
+        "boylam": "39.1737",
+        "derinlik": "19.1",
+        "buyukluk": "1.7",
+        "yer": "DEDEPINARI-(ELAZIG)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "01:53:24",
+        "enlem": "36.0470",
+        "boylam": "28.3092",
+        "derinlik": "29.5",
+        "buyukluk": "3.0",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "01:44:42",
+        "enlem": "39.4182",
+        "boylam": "23.9362",
+        "derinlik": "12.8",
+        "buyukluk": "2.0",
+        "yer": "YUNANISTAN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "01:35:08",
+        "enlem": "39.8422",
+        "boylam": "27.9487",
+        "derinlik": "8.4",
+        "buyukluk": "1.6",
+        "yer": "YAYLABAYIR-(BALIKESIR)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "01:17:06",
+        "enlem": "38.8315",
+        "boylam": "43.5035",
+        "derinlik": "7.1",
+        "buyukluk": "1.9",
+        "yer": "KARAAGAC-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "01:14:10",
+        "enlem": "36.9495",
+        "boylam": "27.7822",
+        "derinlik": "6.5",
+        "buyukluk": "1.9",
+        "yer": "GOKOVA",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "01:04:15",
+        "enlem": "40.7590",
+        "boylam": "27.3107",
+        "derinlik": "14.8",
+        "buyukluk": "1.7",
+        "yer": "GUZELKOY-SARKOY",
+        "sehir": "(TEKIRDAG)"
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "01:03:42",
+        "enlem": "36.9332",
+        "boylam": "24.9043",
+        "derinlik": "142.2",
+        "buyukluk": "2.5",
+        "yer": "EGE",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.12",
+        "saat": "00:36:45",
+        "enlem": "35.1548",
+        "boylam": "25.1722",
+        "derinlik": "5.4",
+        "buyukluk": "1.7",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "23:44:26",
+        "enlem": "38.5982",
+        "boylam": "30.8852",
+        "derinlik": "7.8",
+        "buyukluk": "0.8",
+        "yer": "MALTEPE-CAY",
+        "sehir": "(AFYONKARAHISAR)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "23:32:27",
+        "enlem": "39.0885",
+        "boylam": "27.7750",
+        "derinlik": "9.9",
+        "buyukluk": "1.8",
+        "yer": "ILYASLAR-KIRKAGAC",
+        "sehir": "(MANISA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "23:20:20",
+        "enlem": "35.3473",
+        "boylam": "27.6757",
+        "derinlik": "17.0",
+        "buyukluk": "2.1",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "23:01:11",
+        "enlem": "38.8353",
+        "boylam": "43.5250",
+        "derinlik": "5.0",
+        "buyukluk": "2.5",
+        "yer": "BAGDASAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "22:26:45",
+        "enlem": "37.8378",
+        "boylam": "26.3863",
+        "derinlik": "11.8",
+        "buyukluk": "1.2",
+        "yer": "ONIKI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "22:25:15",
+        "enlem": "37.9260",
+        "boylam": "26.3558",
+        "derinlik": "5.0",
+        "buyukluk": "1.4",
+        "yer": "EGE",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "21:53:35",
+        "enlem": "38.2618",
+        "boylam": "38.7005",
+        "derinlik": "6.5",
+        "buyukluk": "3.3",
+        "yer": "CAYKOY-PUTURGE",
+        "sehir": "(MALATYA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "21:51:33",
+        "enlem": "39.6025",
+        "boylam": "25.9755",
+        "derinlik": "9.9",
+        "buyukluk": "1.2",
+        "yer": "TAVAKLI",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "21:46:57",
+        "enlem": "39.5873",
+        "boylam": "26.0172",
+        "derinlik": "7.9",
+        "buyukluk": "1.7",
+        "yer": "GULPINAR",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "21:44:06",
+        "enlem": "40.2128",
+        "boylam": "27.7105",
+        "derinlik": "8.5",
+        "buyukluk": "2.1",
+        "yer": "BOSTANCI-GONEN",
+        "sehir": "(BALIKESIR)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "21:13:59",
+        "enlem": "38.7690",
+        "boylam": "25.5770",
+        "derinlik": "8.2",
+        "buyukluk": "2.0",
+        "yer": "EGE",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "21:04:20",
+        "enlem": "38.8492",
+        "boylam": "43.4760",
+        "derinlik": "5.0",
+        "buyukluk": "2.7",
+        "yer": "KARAAGAC-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "20:41:40",
+        "enlem": "37.0502",
+        "boylam": "28.3860",
+        "derinlik": "5.0",
+        "buyukluk": "1.3",
+        "yer": "ATAKOY-ULA",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "20:39:06",
+        "enlem": "37.8842",
+        "boylam": "36.8503",
+        "derinlik": "3.6",
+        "buyukluk": "1.6",
+        "yer": "SULEYMANLI-(KAHRAMANMARAS)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "20:30:46",
+        "enlem": "37.0450",
+        "boylam": "28.3710",
+        "derinlik": "4.9",
+        "buyukluk": "1.3",
+        "yer": "GOKOVA-ULA",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "20:09:12",
+        "enlem": "38.3520",
+        "boylam": "30.8683",
+        "derinlik": "10.9",
+        "buyukluk": "1.3",
+        "yer": "YUKARIKASIKARA-YALVAC",
+        "sehir": "(ISPARTA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "19:32:42",
+        "enlem": "37.6447",
+        "boylam": "37.1277",
+        "derinlik": "15.8",
+        "buyukluk": "1.2",
+        "yer": "KOZLUDERE-(KAHRAMANMARAS)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "18:53:34",
+        "enlem": "35.2767",
+        "boylam": "25.3420",
+        "derinlik": "6.1",
+        "buyukluk": "2.3",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "18:13:58",
+        "enlem": "38.8107",
+        "boylam": "43.4863",
+        "derinlik": "5.0",
+        "buyukluk": "3.1",
+        "yer": "DEREBEY-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "18:09:46",
+        "enlem": "40.7093",
+        "boylam": "27.4540",
+        "derinlik": "11.5",
+        "buyukluk": "2.1",
+        "yer": "GUZELKOY",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "17:51:09",
+        "enlem": "38.8735",
+        "boylam": "29.0992",
+        "derinlik": "5.5",
+        "buyukluk": "1.6",
+        "yer": "KARAKUR-SAPHANE",
+        "sehir": "(KUTAHYA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "16:34:42",
+        "enlem": "37.2075",
+        "boylam": "37.5140",
+        "derinlik": "5.0",
+        "buyukluk": "1.7",
+        "yer": "BUYUKKARAKUYU-YAVUZELI",
+        "sehir": "(GAZIANTEP)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "16:17:35",
+        "enlem": "40.5310",
+        "boylam": "29.2793",
+        "derinlik": "0.0",
+        "buyukluk": "1.2",
+        "yer": "HAMZALI-ORHANGAZI",
+        "sehir": "(BURSA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "16:12:57",
+        "enlem": "34.2008",
+        "boylam": "26.2565",
+        "derinlik": "6.7",
+        "buyukluk": "3.1",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "14:51:51",
+        "enlem": "34.4323",
+        "boylam": "23.8540",
+        "derinlik": "15.6",
+        "buyukluk": "2.5",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "13:55:55",
+        "enlem": "38.9495",
+        "boylam": "30.2705",
+        "derinlik": "5.0",
+        "buyukluk": "2.9",
+        "yer": "YENICE-IHSANIYE",
+        "sehir": "(AFYONKARAHISAR)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "13:24:50",
+        "enlem": "39.3408",
+        "boylam": "40.5670",
+        "derinlik": "5.0",
+        "buyukluk": "2.4",
+        "yer": "CATMAOLUK-ADAKLI",
+        "sehir": "(BINGOL)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "13:12:27",
+        "enlem": "40.7707",
+        "boylam": "27.4270",
+        "derinlik": "25.7",
+        "buyukluk": "1.7",
+        "yer": "UCMAKDERE-SARKOY",
+        "sehir": "(TEKIRDAG)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "12:39:54",
+        "enlem": "39.7727",
+        "boylam": "35.1657",
+        "derinlik": "8.0",
+        "buyukluk": "1.6",
+        "yer": "KUCUKKOHNE-SORGUN",
+        "sehir": "(YOZGAT)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "12:01:42",
+        "enlem": "38.1647",
+        "boylam": "30.8838",
+        "derinlik": "12.8",
+        "buyukluk": "1.5",
+        "yer": "AKDAG-GELENDOST",
+        "sehir": "(ISPARTA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "12:01:35",
+        "enlem": "37.1063",
+        "boylam": "35.7433",
+        "derinlik": "16.6",
+        "buyukluk": "2.3",
+        "yer": "TATLIKUYU-CEYHAN",
+        "sehir": "(ADANA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "11:58:00",
+        "enlem": "36.9048",
+        "boylam": "38.8700",
+        "derinlik": "6.9",
+        "buyukluk": "2.0",
+        "yer": "KARATEPE-AKCAKALE",
+        "sehir": "(SANLIURFA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "11:16:33",
+        "enlem": "39.1452",
+        "boylam": "27.5970",
+        "derinlik": "0.0",
+        "buyukluk": "2.0",
+        "yer": "DARKALE-SOMA",
+        "sehir": "(MANISA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "11:02:41",
+        "enlem": "38.9817",
+        "boylam": "27.8728",
+        "derinlik": "5.1",
+        "buyukluk": "2.1",
+        "yer": "KARABORKLU-AKHISAR",
+        "sehir": "(MANISA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "10:11:45",
+        "enlem": "40.5585",
+        "boylam": "36.5908",
+        "derinlik": "11.0",
+        "buyukluk": "1.7",
+        "yer": "CANBOLAT-ERBAA",
+        "sehir": "(TOKAT)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "10:04:48",
+        "enlem": "39.1083",
+        "boylam": "27.5832",
+        "derinlik": "0.0",
+        "buyukluk": "1.8",
+        "yer": "ADIL-SOMA",
+        "sehir": "(MANISA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "10:04:01",
+        "enlem": "37.8953",
+        "boylam": "37.9952",
+        "derinlik": "5.4",
+        "buyukluk": "1.5",
+        "yer": "ERKENEK-DOGANSEHIR",
+        "sehir": "(MALATYA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "09:40:24",
+        "enlem": "38.9485",
+        "boylam": "43.5305",
+        "derinlik": "3.4",
+        "buyukluk": "1.6",
+        "yer": "COLPAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "08:57:16",
+        "enlem": "38.6935",
+        "boylam": "44.2820",
+        "derinlik": "19.5",
+        "buyukluk": "1.9",
+        "yer": "SIRIMLI-SARAY",
+        "sehir": "(VAN)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "08:37:02",
+        "enlem": "37.2780",
+        "boylam": "31.1192",
+        "derinlik": "148.4",
+        "buyukluk": "2.3",
+        "yer": "BALLIBUCAK-MANAVGAT",
+        "sehir": "(ANTALYA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "08:11:36",
+        "enlem": "37.0832",
+        "boylam": "28.4083",
+        "derinlik": "2.6",
+        "buyukluk": "1.1",
+        "yer": "YESILOVA-ULA",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "07:00:51",
+        "enlem": "37.0377",
+        "boylam": "28.3690",
+        "derinlik": "6.6",
+        "buyukluk": "2.2",
+        "yer": "SIRINKOY-ULA",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "06:35:22",
+        "enlem": "35.6000",
+        "boylam": "27.1985",
+        "derinlik": "11.3",
+        "buyukluk": "2.9",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "06:01:22",
+        "enlem": "38.3518",
+        "boylam": "23.5828",
+        "derinlik": "30.9",
+        "buyukluk": "2.0",
+        "yer": "YUNANISTAN",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "05:52:17",
+        "enlem": "35.1803",
+        "boylam": "25.3253",
+        "derinlik": "7.7",
+        "buyukluk": "2.7",
+        "yer": "GIRIT",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "05:25:47",
+        "enlem": "38.9938",
+        "boylam": "27.8437",
+        "derinlik": "9.8",
+        "buyukluk": "2.2",
+        "yer": "GOKCEAHMET-AKHISAR",
+        "sehir": "(MANISA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "05:05:52",
+        "enlem": "35.9992",
+        "boylam": "31.3470",
+        "derinlik": "19.7",
+        "buyukluk": "4.5",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "04:48:29",
+        "enlem": "38.7907",
+        "boylam": "43.2172",
+        "derinlik": "8.5",
+        "buyukluk": "2.3",
+        "yer": "DAGONU-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "04:37:42",
+        "enlem": "37.0193",
+        "boylam": "28.3938",
+        "derinlik": "8.0",
+        "buyukluk": "2.2",
+        "yer": "SIRINKOY-ULA",
+        "sehir": "(MUGLA)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "04:24:55",
+        "enlem": "35.2622",
+        "boylam": "30.4342",
+        "derinlik": "88.2",
+        "buyukluk": "2.1",
+        "yer": "AKDENIZ",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "03:51:34",
+        "enlem": "40.7192",
+        "boylam": "33.1708",
+        "derinlik": "5.9",
+        "buyukluk": "1.1",
+        "yer": "SUNURLU-KURSUNLU",
+        "sehir": "(CANKIRI)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "03:25:31",
+        "enlem": "39.8075",
+        "boylam": "27.9410",
+        "derinlik": "12.4",
+        "buyukluk": "1.4",
+        "yer": "CAYPINAR-(BALIKESIR)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "03:18:13",
+        "enlem": "38.8057",
+        "boylam": "43.5588",
+        "derinlik": "5.0",
+        "buyukluk": "2.6",
+        "yer": "AKCIFT-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "03:01:40",
+        "enlem": "39.8292",
+        "boylam": "27.9518",
+        "derinlik": "12.7",
+        "buyukluk": "1.5",
+        "yer": "YAYLABAYIR-(BALIKESIR)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "02:57:11",
+        "enlem": "38.9062",
+        "boylam": "43.5068",
+        "derinlik": "5.0",
+        "buyukluk": "1.5",
+        "yer": "COLPAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "02:51:50",
+        "enlem": "39.7615",
+        "boylam": "37.5572",
+        "derinlik": "7.3",
+        "buyukluk": "2.0",
+        "yer": "TOPCUYENIKOY-HAFIK",
+        "sehir": "(SIVAS)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "02:19:20",
+        "enlem": "39.6803",
+        "boylam": "39.6562",
+        "derinlik": "1.0",
+        "buyukluk": "1.8",
+        "yer": "DENIZDAMI-UZUMLU",
+        "sehir": "(ERZINCAN)"
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "01:08:26",
+        "enlem": "38.8213",
+        "boylam": "43.5225",
+        "derinlik": "5.0",
+        "buyukluk": "3.6",
+        "yer": "BAGDASAN-(VAN)",
+        "sehir": ""
+    },
+    {
+        "tarih": "2022.06.11",
+        "saat": "00:51:14",
+        "enlem": "37.0718",
+        "boylam": "28.4153",
+        "derinlik": "10.2",
+        "buyukluk": "1.0",
+        "yer": "YESILOVA-ULA",
+        "sehir": "(MUGLA)"
+    }
+]
