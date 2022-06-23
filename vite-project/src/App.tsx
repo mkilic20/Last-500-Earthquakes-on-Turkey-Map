@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './App.css'
 import { MapContainer, TileLayer, useMap, Marker, Popup } from 'react-leaflet'
 import data from './data/earthquake.json'
@@ -10,15 +10,14 @@ function App() {
   function testt (){
     console.log(12)
   }
-
-  return (
+  return ( 
     <div id="map">
       <h1> Turkish Construction Team </h1>
       <MapContainer className='leaflet-map' center={[38.4637, 34.2433]} zoom={6} scrollWheelZoom={true} >
       <TileLayer attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"/>
         <Marker position={[41.07035, 29.0059]}>
-          <Popup>
+          <Popup eventHandlers={{click:testt}}>
             Eliar <br /> Easily customizable.
           </Popup>
         </Marker>
@@ -32,16 +31,18 @@ function App() {
             Home
           </Popup>
         </Marker>
-        {data.map(eq => (
-          <Marker position={[parseFloat(eq.enlem) , parseFloat(eq.boylam)]}>
-            <Popup>
-              Yer: {eq.sehir} {eq.yer} <br/> Büyüklük: {eq.buyukluk} <br/> Tarih: {eq.tarih}
-            </Popup>
-          </Marker>
-        ))}
+        {data.map(eq => {
+          return (
+            <Marker position={[parseFloat(eq.enlem), parseFloat(eq.boylam)]} eventHandlers={{click:testt}}>
+              <Popup>
+                Yer: {eq.sehir} {eq.yer} <br /> Büyüklük: {eq.buyukluk} <br /> Tarih: {eq.tarih}
+              </Popup>
+            </Marker>
+          )
+        } )}
       </MapContainer>
       <div id = 'info'> 
-          <h2> hello </h2>
+        <h2> hello </h2>
       </div>
     </div>
   )
