@@ -7,7 +7,10 @@ import data from './data/earthquake.json'
 // url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
 
 function App() {
-  
+  function testt (){
+    console.log(12)
+  }
+
   return (
     <div id="map">
       <h1> Turkish Construction Team </h1>
@@ -37,6 +40,9 @@ function App() {
           </Marker>
         ))}
       </MapContainer>
+      <div id = 'info'> 
+          <h2> hello </h2>
+      </div>
     </div>
   )
 }
