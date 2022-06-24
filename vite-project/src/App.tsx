@@ -8,19 +8,16 @@ import { LeafletMouseEvent } from 'leaflet'
 // url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
 
 function App() {
-  function testt (){
-    console.log(12)
-  }
   
-  var markerData;
+  var markerData = "afds";
   return ( 
     <div id="map">
       <h1> Turkish Construction Team </h1>
-      <MapContainer className='leaflet-map' center={[38.4637, 34.2433]} zoom={6} scrollWheelZoom={true} >
+      <MapContainer className='leaflet-map' center={[38.4637, 34.2433]} zoom={6} scrollWheelZoom={true}>
       <TileLayer attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"/>
         <Marker position={[41.07035, 29.0059]}>
-          <Popup eventHandlers={{click:testt}}>
+          <Popup>
             Eliar <br /> Easily customizable.
           </Popup>
         </Marker>
@@ -36,7 +33,11 @@ function App() {
         </Marker>
         {data.map((eq, index) => {
           return (
-            <Marker key={index} position={[parseFloat(eq.enlem), parseFloat(eq.boylam)]} eventHandlers={{click:testt}} >
+            <Marker key={index} position={[parseFloat(eq.enlem), parseFloat(eq.boylam)]} eventHandlers={{
+              click: (eq) => {
+                console.log(eq)
+              }
+            }}>
               <Popup>
                 Yer: {eq.sehir} {eq.yer} <br /> Büyüklük: {eq.buyukluk} <br /> Tarih: {eq.tarih}
               </Popup>
