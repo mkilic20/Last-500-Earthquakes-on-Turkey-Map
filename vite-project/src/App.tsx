@@ -9,10 +9,23 @@ import { LeafletMouseEvent } from 'leaflet'
 
 function App() {
   
-  var markerData = "afds";
+  const [markerData, setmarkerData] = useState({
+    "tarih": "",
+    "saat": "",
+    "enlem": "",
+    "boylam": "",
+    "derinlik": "",
+    "buyukluk": "",
+    "yer": "",
+    "sehir": ""
+})
+const [comaActivated, setcomaActivated] = useState(false)
+
   return ( 
-    <div id="map">
-      <h1> Turkish Construction Team </h1>
+    <div style={{background:"#dc2626", height:"100vh"}}>
+      <h1 style={{color:"white"}}> Earthquakes on Turkey </h1>
+      <div id="map" className='info' style={{color:"black", border:"12px orange", borderStyle:"inset",width: "70vw",
+  height: "65vh"}}>
       <MapContainer className='leaflet-map' center={[38.4637, 34.2433]} zoom={6} scrollWheelZoom={true}>
       <TileLayer attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"/>
@@ -21,21 +34,12 @@ function App() {
             Eliar <br /> Easily customizable.
           </Popup>
         </Marker>
-        <Marker position={[41.1947, 29.0491]}>
-          <Popup>
-            Koç West Campus <br /> Home
-          </Popup>
-        </Marker>
-        <Marker position={[37.00034, 35.27874]}>
-          <Popup>
-            Home
-          </Popup>
-        </Marker>
         {data.map((eq, index) => {
           return (
             <Marker key={index} position={[parseFloat(eq.enlem), parseFloat(eq.boylam)]} eventHandlers={{
-              click: (eq) => {
-                console.log(eq)
+              click: () => {
+                setmarkerData(eq)
+                setcomaActivated(true)
               }
             }}>
               <Popup>
@@ -44,9 +48,12 @@ function App() {
             </Marker>
           )
         } )}
-      </MapContainer>
-      <div id = 'info'> 
-        <h2> hello </h2>
+      </MapContainer></div>
+
+      <div id = 'info' className='info' style={{color:"black", border:"12px orange", borderStyle:"inset", width:"60vw", background:"#db9a00",}}> 
+        <h2> <span style={{color:"red"}}>Selected Earthquake:</span> </h2>
+        <h3>  Coordinate: {markerData.enlem}  {comaActivated ? ",": ""} {markerData.boylam} <br/>
+        Magnitude: {markerData.buyukluk} <br/> Place: {markerData.yer} {markerData.sehir} <br/> Date: {markerData.tarih}   Time: {markerData.saat}</h3> 
       </div>
     </div>
   )
