@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import './App.css'
 import { MapContainer, TileLayer, useMap, Marker, Popup } from 'react-leaflet'
 import data from './data/earthquake.json'
+import { LeafletMouseEvent } from 'leaflet'
 
 // url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
 // url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
@@ -10,6 +11,8 @@ function App() {
   function testt (){
     console.log(12)
   }
+  
+  var markerData;
   return ( 
     <div id="map">
       <h1> Turkish Construction Team </h1>
@@ -31,9 +34,9 @@ function App() {
             Home
           </Popup>
         </Marker>
-        {data.map(eq => {
+        {data.map((eq, index) => {
           return (
-            <Marker position={[parseFloat(eq.enlem), parseFloat(eq.boylam)]} eventHandlers={{click:testt}}>
+            <Marker key={index} position={[parseFloat(eq.enlem), parseFloat(eq.boylam)]} eventHandlers={{click:testt}} >
               <Popup>
                 Yer: {eq.sehir} {eq.yer} <br /> Büyüklük: {eq.buyukluk} <br /> Tarih: {eq.tarih}
               </Popup>
