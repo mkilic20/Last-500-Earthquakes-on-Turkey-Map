@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import './App.css'
 import { MapContainer, TileLayer, useMap, Marker, Popup, Circle, useMapEvents } from 'react-leaflet'
-import data from './data/earthquake.json'
 import L, { LeafletMouseEvent, map, tileLayer } from 'leaflet'
 import { RangeInput } from './components/RangeInput'
 import Table from './Table'
@@ -42,18 +41,20 @@ function LocationMarker() {
   );
 }
 function App() {
-  /*
+  
   const[data, setdata] = useState<Earthquake[]>([])
   useEffect( () =>{
     axios
     .get('http://localhost:3010/api')
     .then((response: AxiosResponse) => {
-      console.log(response.data)
+      //console.log(response.data)
       setdata(response.data)
     })
   },[])
-  */
-  const [markerData, setmarkerData] = useState({
+  
+  
+  const [markerData, setmarkerData] = useState<Earthquake>()
+/*  const [markerData, setmarkerData] = useState({
     "tarih": "",
     "saat": "",
     "enlem": "",
@@ -63,12 +64,8 @@ function App() {
     "yer": "",
     "sehir": ""
   })
-
+*/
   const [position, setPosition] = useState(new L.LatLng(0,0))
-
-  
-
-
   const [radiusMeter, setradiusMeter] = useState(200000)
   const [comaActivated, setcomaActivated] = useState(false)
   const [zoomLevel, setzoomLevel] = useState(6)
@@ -111,8 +108,8 @@ function App() {
       
       <div id = 'info' className='info' style={{color:"black", border:"12px orange", borderStyle:"inset", width:"60vw", background:"#db9a00",}}> 
         <h2> <span style={{color:"red"}}>Selected Earthquake:</span> </h2>
-        <h3>  Coordinate: {markerData.enlem}  {comaActivated ? ",": ""} {markerData.boylam} <br/>
-        Magnitude: {markerData.buyukluk} <br/> Place: {markerData.yer} {markerData.sehir} <br/> Date: {markerData.tarih}   Time: {markerData.saat}</h3> 
+        <h3>  Coordinate: {markerData?.enlem}  {comaActivated ? ",": ""} {markerData?.boylam} <br/>
+        Magnitude: {markerData?.buyukluk} <br/> Place: {markerData?.yer} {markerData?.sehir} <br/> Date: {markerData?.tarih}   Time: {markerData?.saat}</h3> 
       </div>
       <div style={{display:"inline-block", margin:"0 auto"}}>
         <Table />

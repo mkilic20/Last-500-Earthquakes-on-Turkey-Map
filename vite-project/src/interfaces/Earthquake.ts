@@ -6,4 +6,5 @@ export interface Earthquake {
     derinlik: string,
     buyukluk: string,
     yer: string,
+    sehir: string,
   }

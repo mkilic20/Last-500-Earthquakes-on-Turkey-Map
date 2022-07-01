@@ -1,22 +1,23 @@
-import React,{useMemo} from 'react'
+import React,{useEffect, useMemo, useState} from 'react'
 import { useSortBy, useTable } from 'react-table'
-import JsonData from './data/earthquake.json'
+import { Earthquake } from './interfaces/Earthquake'
+import axios, {Axios, AxiosResponse} from 'axios'
+
+
 
 function Table() {
 
-/*
-  type TData = {
-    tarih: string,
-    saat: string,
-    enlem: string,
-    boylam: string,
-    derinlik: string,
-    buyukluk: string,
-    yer: string,
-  }
-  const data: TData[] = JsonData;
-*/
-  var data = JsonData 
+  const[data, setdata] = useState<Earthquake[]>([])
+  useEffect( () =>{
+    axios
+    .get('http://localhost:3010/api')
+    .then((response: AxiosResponse) => {
+      //console.log(response.data)
+      setdata(response.data)
+    })
+  },[])
+  
+
   const columns = React.useMemo(
     () => [
       {
@@ -62,10 +63,11 @@ function Table() {
     rows,
     prepareRow,
     // @ts-ignore
-  } = useTable({columns, data })
+  } = useTable({columns, data})
 
   return (
     <table {...getTableProps()} style={{ border: 'solid 1px blue' }}>
+      <caption style={{color:'white'}}> Earthquakes </caption>
       <thead>
         {headerGroups.map(headerGroup => (
           <tr {...headerGroup.getHeaderGroupProps()}>
