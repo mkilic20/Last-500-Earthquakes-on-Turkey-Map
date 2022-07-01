@@ -17,9 +17,6 @@ let circleCenter = new L.LatLng(999, 999)
 
 function LocationMarker() {
   const [position, setPosition] = useState(new L.LatLng(0,0));
-
-
-
   const map = useMap();
 
   useEffect(() => {
@@ -40,6 +37,8 @@ function LocationMarker() {
 
   );
 }
+
+
 function App() {
   
   const[data, setdata] = useState<Earthquake[]>([])
@@ -54,25 +53,12 @@ function App() {
   
   
   const [markerData, setmarkerData] = useState<Earthquake>()
-/*  const [markerData, setmarkerData] = useState({
-    "tarih": "",
-    "saat": "",
-    "enlem": "",
-    "boylam": "",
-    "derinlik": "",
-    "buyukluk": "",
-    "yer": "",
-    "sehir": ""
-  })
-*/
   const [position, setPosition] = useState(new L.LatLng(0,0))
   const [radiusMeter, setradiusMeter] = useState(200000)
   const [comaActivated, setcomaActivated] = useState(false)
   const [zoomLevel, setzoomLevel] = useState(6)
   const [centerMap,setcenterMap] = useState(new L.LatLng(38.4637, 34.2433))
-
- 
-
+  
   
   return ( 
     <div style={{background:"#dc2626", height:"100vh"}}>
