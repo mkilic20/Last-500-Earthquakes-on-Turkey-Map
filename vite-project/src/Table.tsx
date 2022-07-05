@@ -4,9 +4,12 @@ import { Earthquake } from './interfaces/Earthquake'
 import axios, {Axios, AxiosResponse} from 'axios'
 import './App.css'
 
+interface TableProps  {
+  logMessage: (message: number) => void;
+}
 
 
-function Table() {
+function Table(props: TableProps) {
 
   const[data, setdata] = useState<Earthquake[]>([])
   useEffect( () =>{
@@ -17,9 +20,12 @@ function Table() {
       setdata(response.data)
     })
   },[])
+  data.forEach((eq,index) => {
+    eq.id = index
+  })
   
-  type Data = typeof data;
-  type SortKeys = keyof Data[0];
+  type Data = Earthquake[];
+  type SortKeys = Exclude<keyof Earthquake, 'id'>;
   type SortOrder = "ascn" | "desc";
 
   function sortData({
@@ -34,6 +40,7 @@ function Table() {
     if (!sortKey) return tableData;
   
     const sortedData = data.sort((a, b) => {
+      
       return a[sortKey] > b[sortKey] ? 1 : -1;
     });
   
@@ -43,7 +50,15 @@ function Table() {
   
     return sortedData;
   }
-  
+  function buttonImage(sortKey, columnKey, sortOrder){
+    if (sortKey===columnKey) {
+      if (sortOrder === "ascn") {
+        return "▲"
+      }
+      else return "▼"
+    }
+    else return "▶"
+  }
   function SortButton({
     sortOrder,
     columnKey,
@@ -64,13 +79,13 @@ function Table() {
             : "sort-button"
         }`}
       >
-        ▲
+        {buttonImage(sortKey,columnKey,sortOrder)}
       </button>
     );
   }
 
   const [sortKey, setSortKey] = useState<SortKeys>("tarih");
-  const [sortOrder, setSortOrder] = useState<SortOrder>("ascn");
+  const [sortOrder, setSortOrder] = useState<SortOrder>("desc");
 
   const headers: { key: SortKeys; label: string }[] = [
     { key: "tarih", label: "Date" },
@@ -119,7 +134,7 @@ function Table() {
       <tbody>
         {sortedData().map((person,key) => {
           return (
-            <tr key={key} onClick={()=>{console.log(key)}} >
+            <tr key={key} onClick={() => props.logMessage(person.id? person.id : 0)} >
               <td>{person.tarih}</td>
               <td>{person.saat}</td>
               <td>{person.enlem}</td>

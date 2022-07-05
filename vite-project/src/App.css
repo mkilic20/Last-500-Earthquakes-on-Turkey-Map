@@ -17,15 +17,12 @@
 
 table {
   border-spacing: 0;
-  border: 7px solid #ea580c;
+  border: 12px solid orange;
   border-style:inset;
   background: #dc2626;
   font-size: 15px;
 }
 
-tr:last-child td {
-  border-bottom: 0;
-}
 
 th,
 td {

@@ -7,4 +7,5 @@ export interface Earthquake {
     buyukluk: string,
     yer: string,
     sehir: string,
-  }
+    id?: number,
+}

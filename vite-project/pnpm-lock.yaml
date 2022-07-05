@@ -14,6 +14,7 @@ specifiers:
   react-dom: ^18.2.0
   react-leaflet: ^4.0.0
   react-table: ^7.8.0
+  react-toastify: ^9.0.5
   typescript: ^4.6.3
   vite: ^2.9.9
 
@@ -26,6 +27,7 @@ dependencies:
   react-dom: 18.2.0_react@18.2.0
   react-leaflet: 4.0.1_zklzwh7pdkx5k4fi5tz77jtq6y
   react-table: 7.8.0_react@18.2.0
+  react-toastify: 9.0.5_biqbaboplfbrettd7655fr4n2y
 
 devDependencies:
   '@types/leaflet': 1.7.11
@@ -472,6 +474,11 @@ packages:
       supports-color: 5.5.0
     dev: true
 
+  /clsx/1.2.0:
+    resolution: {integrity: sha512-EPRP7XJsM1y0iCU3Z7C7jFKdQboXSeHgEfzQUTlz7m5NP3hDrlz48aUsmNGp4pC+JOW9WA3vIRqlYuo/bl4Drw==}
+    engines: {node: '>=6'}
+    dev: false
+
   /color-convert/1.9.3:
     resolution: {integrity: sha512-QfAUtd+vFdAtFQcC8CCyYt1fYWxSqAiK2cSD6zDB8N3cpsEBAvRxp9zOGg6G/SHHJYAT88/az/IuDGALsNVbGg==}
     dependencies:
@@ -913,6 +920,17 @@ packages:
       react: ^16.8.3 || ^17.0.0-0 || ^18.0.0
     dependencies:
       react: 18.2.0
+    dev: false
+
+  /react-toastify/9.0.5_biqbaboplfbrettd7655fr4n2y:
+    resolution: {integrity: sha512-dszPCeQINY+Nm6HmsiAXT/7wsazPqv0S/RuhIYLAW+fTKcd3T1iRjZG0XqrN9nvAzqaE5J6uxMaiBrOevxjY8g==}
+    peerDependencies:
+      react: '>=16'
+      react-dom: '>=16'
+    dependencies:
+      clsx: 1.2.0
+      react: 18.2.0
+      react-dom: 18.2.0_react@18.2.0
     dev: false
 
   /react/18.2.0:
