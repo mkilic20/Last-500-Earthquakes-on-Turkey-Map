@@ -1,31 +1,25 @@
-import React,{MouseEventHandler, useCallback, useEffect, useMemo, useState} from 'react'
-import { useSortBy, useTable } from 'react-table'
-import { Earthquake } from './interfaces/Earthquake'
-import axios, {Axios, AxiosResponse} from 'axios'
-import './App.css'
+import React, {
+  MouseEventHandler,
+  useCallback,
+  useEffect,
+  useMemo,
+  useState,
+} from "react";
+import { useSortBy, useTable } from "react-table";
+import { Earthquake } from "./interfaces/Earthquake";
+import axios, { Axios, AxiosResponse } from "axios";
+import "./App.css";
 
-interface TableProps  {
+interface TableProps {
+  data: Earthquake[];
   logMessage: (message: number) => void;
 }
 
-
 function Table(props: TableProps) {
+  var data = props.data;
 
-  const[data, setdata] = useState<Earthquake[]>([])
-  useEffect( () =>{
-    axios
-    .get('http://localhost:3010/api')
-    .then((response: AxiosResponse) => {
-      //console.log(response.data)
-      setdata(response.data)
-    })
-  },[])
-  data.forEach((eq,index) => {
-    eq.id = index
-  })
-  
   type Data = Earthquake[];
-  type SortKeys = Exclude<keyof Earthquake, 'id'>;
+  type SortKeys = Exclude<keyof Earthquake, "id">;
   type SortOrder = "ascn" | "desc";
 
   function sortData({
@@ -38,26 +32,23 @@ function Table(props: TableProps) {
     reverse: boolean;
   }) {
     if (!sortKey) return tableData;
-  
+
     const sortedData = data.sort((a, b) => {
-      
       return a[sortKey] > b[sortKey] ? 1 : -1;
     });
-  
+
     if (reverse) {
       return sortedData.reverse();
     }
-  
+
     return sortedData;
   }
-  function buttonImage(sortKey, columnKey, sortOrder){
-    if (sortKey===columnKey) {
+  function buttonImage(sortKey, columnKey, sortOrder) {
+    if (sortKey === columnKey) {
       if (sortOrder === "ascn") {
-        return "▲"
-      }
-      else return "▼"
-    }
-    else return "▶"
+        return "▲";
+      } else return "▼";
+    } else return "▶";
   }
   function SortButton({
     sortOrder,
@@ -79,7 +70,7 @@ function Table(props: TableProps) {
             : "sort-button"
         }`}
       >
-        {buttonImage(sortKey,columnKey,sortOrder)}
+        {buttonImage(sortKey, columnKey, sortOrder)}
       </button>
     );
   }
@@ -115,7 +106,7 @@ function Table(props: TableProps) {
         <tr>
           {headers.map((row) => {
             return (
-              <td key={row.key} >
+              <td key={row.key}>
                 {row.label}{" "}
                 <SortButton
                   columnKey={row.key}
@@ -132,9 +123,12 @@ function Table(props: TableProps) {
       </thead>
 
       <tbody>
-        {sortedData().map((person,key) => {
+        {sortedData().map((person, key) => {
           return (
-            <tr key={key} onClick={() => props.logMessage(person.id? person.id : 0)} >
+            <tr
+              key={key}
+              onClick={() => props.logMessage(person.id ? person.id : 0)}
+            >
               <td>{person.tarih}</td>
               <td>{person.saat}</td>
               <td>{person.enlem}</td>
@@ -149,9 +143,6 @@ function Table(props: TableProps) {
       </tbody>
     </table>
   );
+}
 
-
-}  
-
-
-export default Table
+export default Table;

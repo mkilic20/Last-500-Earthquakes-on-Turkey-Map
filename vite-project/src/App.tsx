@@ -28,6 +28,13 @@ var redMarker = L.icon({
   iconAnchor: [23, 28],
   popupAnchor: [0, -22],
 });
+
+var greenMarker = L.icon({
+  iconUrl: "../pictures/greenMarker.png",
+  iconSize: [46, 46],
+  iconAnchor: [23, 28],
+  popupAnchor: [0, -22],
+});
 let circleCenter = new L.LatLng(999, 999);
 
 function LocationMarker() {
@@ -66,20 +73,40 @@ function App() {
   });
 
   const [markerData, setmarkerData] = useState<Earthquake>();
-  const [radiusMeter, setradiusMeter] = useState(2000000);
+  const [radiusMeter, setradiusMeter] = useState(200000);
   const [comaActivated, setcomaActivated] = useState(false);
   const [zoomLevel, setzoomLevel] = useState(6);
   const [centerMap, setcenterMap] = useState(new L.LatLng(38.4637, 34.2433));
   const markersRef = useRef<Array<L.Marker | null>>([]);
   const [map, setMap] = useState<L.Map>();
 
+  var newData = new Array<Earthquake>;
+  var indexList = new Array<number>;
+  for (var i=0; i < data.length; i++) {  
+    let newPoint = new L.LatLng(parseFloat(data[i].enlem), parseFloat(data[i].boylam));
+    if (circleCenter.distanceTo(newPoint) <= radiusMeter) {
+      newData.push(data[i]);
+      indexList.push(i);
+    }
+  }
+
   const logMessage = (message: number) => {
     if (!markersRef.current[message]) {
       toast("Selected Marker Is Not In The Range!");
-    } else {
-      markersRef.current[message]?.setIcon(redMarker);
+    } 
+    else {
+      markersRef.current[message]?.setIcon(greenMarker)
+      console.log(markersRef)
+      /*
+      const map = useMap();
+      useEffect(() => {
+        var location = markersRef.current[message]?.getLatLng() ?? new L.LatLng(35,35)
+        map.flyTo(location , zoomLevel);
+      }, [map]); 
+      */
     }
   };
+
   return (
     <div style={{ background: "#dc2626", height: "100vh" }}>
       <ToastContainer />
@@ -107,40 +134,33 @@ function App() {
           />
           <LocationMarker></LocationMarker>
           <Circle center={circleCenter} radius={radiusMeter}></Circle>
-          {data.map((eq, index) => {
+          {newData.map((eq, index) => {
             let newPoint = new L.LatLng(
               parseFloat(eq.enlem),
               parseFloat(eq.boylam)
             );
-            var tempDistance = newPoint.distanceTo(circleCenter);
-            if (tempDistance <= radiusMeter) {
-              return (
-                <Marker
-                  key={index}
-                  ref={(el) => (markersRef.current[eq.id ? eq.id : 0] = el)}
-                  position={[parseFloat(eq.enlem), parseFloat(eq.boylam)]}
-                  icon={Icon.Default.prototype}
-                  eventHandlers={{
-                    click: () => {
-                      setmarkerData(eq);
-                      setcomaActivated(true);
-                    },
-                  }}
-                >
-                  <Popup>Yer: {eq.yer}</Popup>
-                </Marker>
-              );
-            }
+            return (
+              <Marker
+                key={index}
+                ref={(el) => (markersRef.current[eq.id ? eq.id : 0] = el)}
+                position={[parseFloat(eq.enlem), parseFloat(eq.boylam)]}
+                icon={Icon.Default.prototype}
+                eventHandlers={{
+                  click: () => {
+                    setmarkerData(eq);
+                    setcomaActivated(true);
+                  },
+                }}
+              >
+                <Popup>Yer: {eq.yer}</Popup>
+              </Marker>
+            );
+            
           })}
         </MapContainer>
       </div>
 
-      <RangeInput
-        currRange={radiusMeter}
-        setradiusMeter={setradiusMeter}
-        setzoomLevel={setzoomLevel}
-        setcenterMap={setcenterMap}
-      />
+      <RangeInput currRange={radiusMeter} setradiusMeter={setradiusMeter} />
 
       <div
         id="info"
@@ -167,7 +187,7 @@ function App() {
         </h3>
       </div>
       <div style={{ display: "inline-block", margin: "0 auto" }}>
-        <Table logMessage={logMessage} />
+        <Table logMessage={logMessage} data={newData} />
       </div>
     </div>
   );

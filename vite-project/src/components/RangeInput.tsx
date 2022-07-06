@@ -4,8 +4,6 @@ import { useState } from "react";
 type RangeInputProps = {
   currRange: number;
   setradiusMeter: React.Dispatch<React.SetStateAction<number>>;
-  setzoomLevel: React.Dispatch<React.SetStateAction<number>>;
-  setcenterMap: React.Dispatch<React.SetStateAction<L.LatLng>>;
 };
 
 export const RangeInput = (props: RangeInputProps) => {
@@ -34,9 +32,7 @@ export const RangeInput = (props: RangeInputProps) => {
           if (inputRange <= 0) {
             props.setradiusMeter(1);
           } else {
-            props.setzoomLevel(5);
             props.setradiusMeter(inputRange);
-            props.setcenterMap(new L.LatLng(1, 6));
           }
         }}
       >
