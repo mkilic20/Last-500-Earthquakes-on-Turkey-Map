@@ -11,7 +11,7 @@ import {
 } from "react-leaflet";
 import L, { Icon, LeafletMouseEvent, map, tileLayer } from "leaflet";
 import { RangeInput } from "./components/RangeInput";
-import Table from "./Table";
+import Table from "./EarthquakeTable";
 import { Earthquake } from "./interfaces/Earthquake";
 import axios, { AxiosResponse } from "axios";
 import { ToastContainer, toast } from "react-toastify";
@@ -63,7 +63,6 @@ function App() {
 
   useEffect(() => {
     axios.get("http://localhost:3010/api").then((response: AxiosResponse) => {
-      //console.log(response.data)
       setdata(response.data);
     });
   }, []);
@@ -85,7 +84,7 @@ function App() {
   for (var i=0; i < data.length; i++) {  
     let newPoint = new L.LatLng(parseFloat(data[i].enlem), parseFloat(data[i].boylam));
     if (circleCenter.distanceTo(newPoint) <= radiusMeter) {
-      newData.push(data[i]);
+      newData[i] = data[i];
       indexList.push(i);
     }
   }
@@ -96,7 +95,6 @@ function App() {
     } 
     else {
       markersRef.current[message]?.setIcon(greenMarker)
-      console.log(markersRef)
       /*
       const map = useMap();
       useEffect(() => {

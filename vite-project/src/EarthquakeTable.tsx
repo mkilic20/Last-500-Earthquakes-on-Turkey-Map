@@ -10,12 +10,12 @@ import { Earthquake } from "./interfaces/Earthquake";
 import axios, { Axios, AxiosResponse } from "axios";
 import "./App.css";
 
-interface TableProps {
+interface EarthquakeTableProps {
   data: Earthquake[];
   logMessage: (message: number) => void;
 }
 
-function Table(props: TableProps) {
+function Table(props: EarthquakeTableProps) {
   var data = props.data;
 
   type Data = Earthquake[];
